@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\1 - Creating your first C# program\\1 - Creating your first C# program.csproj",
-      "projectName": "1 - Creating your first C# program",
-      "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\1 - Creating your first C# program\\1 - Creating your first C# program.csproj",
+      "projectUniqueName": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\1 - HelloWorld\\1 - HelloWorld.csproj",
+      "projectName": "1 - HelloWorld",
+      "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\1 - HelloWorld\\1 - HelloWorld.csproj",
       "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\1 - Creating your first C# program\\obj\\",
+      "outputPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\1 - HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
