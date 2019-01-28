@@ -1,0 +1,11 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\bin\Debug\netcoreapp2.2\1 - Creating your first C# program.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\bin\Debug\netcoreapp2.2\1 - Creating your first C# program.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\bin\Debug\netcoreapp2.2\1 - Creating your first C# program.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\bin\Debug\netcoreapp2.2\1 - Creating your first C# program.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\bin\Debug\netcoreapp2.2\1 - Creating your first C# program.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\obj\Debug\netcoreapp2.2\1 - Creating your first C# program.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\obj\Debug\netcoreapp2.2\1 - Creating your first C# program.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\obj\Debug\netcoreapp2.2\1 - Creating your first C# program.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\obj\Debug\netcoreapp2.2\1 - Creating your first C# program.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\obj\Debug\netcoreapp2.2\1 - Creating your first C# program.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\1 - Creating your first C# program\obj\Debug\netcoreapp2.2\1 - Creating your first C# program.pdb
