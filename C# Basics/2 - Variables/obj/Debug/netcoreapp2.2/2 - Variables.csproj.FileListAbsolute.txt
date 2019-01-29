@@ -1,0 +1,11 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\bin\Debug\netcoreapp2.2\2 - Variables.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\bin\Debug\netcoreapp2.2\2 - Variables.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\bin\Debug\netcoreapp2.2\2 - Variables.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\bin\Debug\netcoreapp2.2\2 - Variables.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\bin\Debug\netcoreapp2.2\2 - Variables.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\obj\Debug\netcoreapp2.2\2 - Variables.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\obj\Debug\netcoreapp2.2\2 - Variables.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\obj\Debug\netcoreapp2.2\2 - Variables.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\obj\Debug\netcoreapp2.2\2 - Variables.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\obj\Debug\netcoreapp2.2\2 - Variables.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\2 - Variables\obj\Debug\netcoreapp2.2\2 - Variables.pdb
