@@ -17,12 +17,12 @@ namespace _2___Variables
              */
 
             Console.WriteLine("What is your name? ");
-            Console.WriteLine("Type your first name: ");
+            Console.Write("Type your first name: ");
             string myFirstName;
             myFirstName = Console.ReadLine();
 
+            Console.Write("Type your last name: ");
             string myLastName;
-            Console.WriteLine("Type your last name: ");
             myLastName = Console.ReadLine();
 
             Console.WriteLine($"Hello, {myFirstName} {myLastName}");
