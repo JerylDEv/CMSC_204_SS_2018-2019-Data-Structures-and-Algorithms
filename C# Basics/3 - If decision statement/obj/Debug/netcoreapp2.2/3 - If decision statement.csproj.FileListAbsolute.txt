@@ -1,0 +1,11 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\bin\Debug\netcoreapp2.2\3 - If decision statement.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\bin\Debug\netcoreapp2.2\3 - If decision statement.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\bin\Debug\netcoreapp2.2\3 - If decision statement.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\bin\Debug\netcoreapp2.2\3 - If decision statement.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\bin\Debug\netcoreapp2.2\3 - If decision statement.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\obj\Debug\netcoreapp2.2\3 - If decision statement.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\obj\Debug\netcoreapp2.2\3 - If decision statement.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\obj\Debug\netcoreapp2.2\3 - If decision statement.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\obj\Debug\netcoreapp2.2\3 - If decision statement.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\obj\Debug\netcoreapp2.2\3 - If decision statement.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\3 - If decision statement\obj\Debug\netcoreapp2.2\3 - If decision statement.pdb

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\3 - If decision statement\\3 - If decision statement.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
