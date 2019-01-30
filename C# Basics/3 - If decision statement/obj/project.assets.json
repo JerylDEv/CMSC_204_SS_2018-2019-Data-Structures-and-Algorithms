@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\1 - HelloWorld\\1 - HelloWorld.csproj",
-      "projectName": "1 - HelloWorld",
-      "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\1 - HelloWorld\\1 - HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\3 - If decision statement\\3 - If decision statement.csproj",
+      "projectName": "3 - If decision statement",
+      "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\3 - If decision statement\\3 - If decision statement.csproj",
       "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\1 - HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\3 - If decision statement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
