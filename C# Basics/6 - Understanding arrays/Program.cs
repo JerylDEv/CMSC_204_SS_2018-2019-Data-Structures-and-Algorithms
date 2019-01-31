@@ -19,7 +19,32 @@ namespace _6___Understanding_arrays
         Console.WriteLine($"Array element {i} contains {numbers[i]}");
       }
 
+      int[] numbersArray = new int[] { 3, 6, 9, 12, 15 };
+
+      string[] names = new string[] { "Athena", "Mavis", "Ara", "Jeryl" };
+
+      foreach (string name in names)
+      {
+        Console.WriteLine(name);
+      }
+
+      // Reverse string
+
+      string message = "Hello world!";
+
+      char[] charArray = message.ToCharArray();
+      Array.Reverse(charArray);
+
+      foreach (char item in charArray)
+      {
+        Console.Write(item);
+      }
+
+      Console.WriteLine(charArray);
+
       Console.ReadLine();
     }
   }
 }
+
+// Completed 2:43
