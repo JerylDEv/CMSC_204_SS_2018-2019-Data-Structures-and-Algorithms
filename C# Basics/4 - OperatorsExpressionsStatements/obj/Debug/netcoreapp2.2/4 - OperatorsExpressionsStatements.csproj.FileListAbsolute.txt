@@ -1,0 +1,11 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\bin\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\bin\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\bin\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\bin\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\bin\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\obj\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\obj\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\obj\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\obj\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\obj\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\4 - OperatorsExpressionsStatements\obj\Debug\netcoreapp2.2\4 - OperatorsExpressionsStatements.pdb
