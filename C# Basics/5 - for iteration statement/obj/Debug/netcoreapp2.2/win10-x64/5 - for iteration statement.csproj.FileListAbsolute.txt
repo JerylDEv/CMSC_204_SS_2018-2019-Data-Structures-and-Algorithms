@@ -1,0 +1,14 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\bin\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.exe
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\bin\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\bin\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\bin\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\bin\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\bin\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\obj\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\obj\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\obj\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\obj\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\obj\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\5 - for iteration statement\obj\Debug\netcoreapp2.2\win10-x64\5 - for iteration statement.pdb
