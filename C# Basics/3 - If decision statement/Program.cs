@@ -28,10 +28,20 @@ namespace _3___If_decision_statement
                 message = "Sorry, we cannot find the number.";
             }
 
-            Console.WriteLine(message);
+            Console.WriteLine($"You entered {userValue}. {message}");
 
+            Console.ReadLine();
+
+            Console.WriteLine("Did you ate already? Yes or No?");
+            string eatValue = Console.ReadLine();
+
+            string response = (eatValue.ToLower() == "yes") ? "Cool!!!" : "Don't forget to eat.";
+
+            Console.WriteLine(response);
             Console.ReadLine();
 
         }
     }
 }
+
+// Ended in 1:51:25
