@@ -1,0 +1,11 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\bin\Debug\netcoreapp2.2\8 - while iteration statement.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\bin\Debug\netcoreapp2.2\8 - while iteration statement.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\bin\Debug\netcoreapp2.2\8 - while iteration statement.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\bin\Debug\netcoreapp2.2\8 - while iteration statement.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\bin\Debug\netcoreapp2.2\8 - while iteration statement.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\obj\Debug\netcoreapp2.2\8 - while iteration statement.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\obj\Debug\netcoreapp2.2\8 - while iteration statement.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\obj\Debug\netcoreapp2.2\8 - while iteration statement.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\obj\Debug\netcoreapp2.2\8 - while iteration statement.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\obj\Debug\netcoreapp2.2\8 - while iteration statement.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\8 - while iteration statement\obj\Debug\netcoreapp2.2\8 - while iteration statement.pdb
