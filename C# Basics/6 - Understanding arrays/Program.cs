@@ -33,14 +33,15 @@ namespace _6___Understanding_arrays
       string message = "Hello world!";
 
       char[] charArray = message.ToCharArray();
+
+      Console.WriteLine(charArray);
+
       Array.Reverse(charArray);
 
       foreach (char item in charArray)
       {
         Console.Write(item);
       }
-
-      Console.WriteLine(charArray);
 
       Console.ReadLine();
     }

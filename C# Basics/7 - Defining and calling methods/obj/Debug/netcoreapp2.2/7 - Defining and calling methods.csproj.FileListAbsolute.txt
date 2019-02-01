@@ -1,0 +1,11 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\bin\Debug\netcoreapp2.2\7 - Defining and calling methods.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\bin\Debug\netcoreapp2.2\7 - Defining and calling methods.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\bin\Debug\netcoreapp2.2\7 - Defining and calling methods.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\bin\Debug\netcoreapp2.2\7 - Defining and calling methods.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\bin\Debug\netcoreapp2.2\7 - Defining and calling methods.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\obj\Debug\netcoreapp2.2\7 - Defining and calling methods.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\obj\Debug\netcoreapp2.2\7 - Defining and calling methods.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\obj\Debug\netcoreapp2.2\7 - Defining and calling methods.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\obj\Debug\netcoreapp2.2\7 - Defining and calling methods.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\obj\Debug\netcoreapp2.2\7 - Defining and calling methods.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\7 - Defining and calling methods\obj\Debug\netcoreapp2.2\7 - Defining and calling methods.pdb

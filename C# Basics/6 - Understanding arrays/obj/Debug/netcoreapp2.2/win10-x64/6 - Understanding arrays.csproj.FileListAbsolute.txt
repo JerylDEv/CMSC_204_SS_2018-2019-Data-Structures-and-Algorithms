@@ -1,0 +1,14 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\bin\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.exe
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\bin\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\bin\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\bin\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\bin\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\bin\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\obj\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\obj\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\obj\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\obj\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\obj\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\6 - Understanding arrays\obj\Debug\netcoreapp2.2\win10-x64\6 - Understanding arrays.pdb
