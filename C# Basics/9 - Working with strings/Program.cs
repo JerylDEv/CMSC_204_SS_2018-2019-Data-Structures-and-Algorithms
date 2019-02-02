@@ -44,10 +44,23 @@ namespace _9___Working_with_strings
       Console.WriteLine(myStringExample11);
 
       string myStringExample12 = " Happy Birthday to you! Happy Birthday ~ Happy Birthday ~ Happy Birthday to you!";
+
       myStringExample12 = myStringExample12.Substring(24, 33);
       Console.WriteLine(myStringExample12);
+
       myStringExample12 = myStringExample12.ToUpper();
       Console.WriteLine(myStringExample12);
+
+      myStringExample12 = myStringExample12.ToLower();
+      Console.WriteLine(myStringExample12);
+
+      myStringExample12 = myStringExample12.Replace(" ", "--");
+      Console.WriteLine(myStringExample12);
+
+      myStringExample12 = myStringExample12.Remove(0, 17);
+      Console.WriteLine(myStringExample12);
+
+
 
       Console.ReadLine();
     }
