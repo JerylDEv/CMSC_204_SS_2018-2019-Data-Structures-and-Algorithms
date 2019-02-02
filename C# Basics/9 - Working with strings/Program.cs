@@ -40,10 +40,12 @@ namespace _9___Working_with_strings
       Console.WriteLine(myStringExample10);
 
       // Custom format
-      string myStringExample11 = String.Format("{0:(##)-(###)(#######)}", +639164941834);
+      string myStringExample11 = String.Format("{0:(##)-(###)(#######)}", 639164941834);
       Console.WriteLine(myStringExample11);
 
       Console.ReadLine();
     }
   }
 }
+
+// Pause at 3:45
