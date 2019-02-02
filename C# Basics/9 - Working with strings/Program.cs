@@ -40,8 +40,11 @@ namespace _9___Working_with_strings
       Console.WriteLine(myStringExample10);
 
       // Custom format
-      string myStringExample11 = String.Format("{0:(##)-(###)(#######)}", 639164941834);
+      string myStringExample11 = String.Format("Phone number: {0:(##)-(###)(#######)}", 639164941834);
       Console.WriteLine(myStringExample11);
+
+      string myStringExample12 = " Happy Birthday to you! Happy Birthday ~ Happy Birthday ~ Happy Birthday to you!";
+
 
       Console.ReadLine();
     }
