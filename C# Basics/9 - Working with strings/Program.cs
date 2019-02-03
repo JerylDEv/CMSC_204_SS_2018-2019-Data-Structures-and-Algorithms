@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace _9___Working_with_strings
 {
@@ -60,7 +61,29 @@ namespace _9___Working_with_strings
       myStringExample12 = myStringExample12.Remove(0, 17);
       Console.WriteLine(myStringExample12);
 
+      myStringExample12 = " ~--happy--birthday--~  ";
+      myStringExample12 = String.Format("Length before {0} -- Length after: {1}", myStringExample12.Length, myStringExample12.Trim().Length);
+      Console.WriteLine(myStringExample12);
 
+      string myStringExample13 = "";
+      for (int i = 0; i < 100; i++)
+      {
+        myStringExample13 += "--" + i.ToString();
+      }
+      Console.WriteLine(myStringExample13);
+
+      // A string is an immutable data type. This means that we can't just add values to it, what happens is that behind the scenes the dotnet runtime is performing to make it look like we are working with the original myStringExample13.
+      // But what it does is it creates a second bucket and it starts copying the previous values of the bucket, plus any values we want to put in there. And then it creates a new string and a new bucket, removes the previous bucket, and renames the new bucket myStringExample13. This process happens a couple of times because of the number of the loop.
+      // This is an inefficient way and will require the runtime a lot of the memory management that could drain the system.
+      // To address this, we could use a StringBuilder instead.
+
+      StringBuilder myStringExample14 = new StringBuilder();
+      for (int i = 0; i < 100; i++)
+      {
+        myStringExample14.Append("--");
+        myStringExample14.Append(i);
+      }
+      Console.WriteLine(myStringExample14);
 
       Console.ReadLine();
     }
