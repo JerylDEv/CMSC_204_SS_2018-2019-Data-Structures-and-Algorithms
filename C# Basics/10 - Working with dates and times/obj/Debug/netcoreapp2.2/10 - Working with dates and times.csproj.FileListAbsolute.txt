@@ -1,0 +1,11 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\bin\Debug\netcoreapp2.2\10 - Working with dates and times.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\bin\Debug\netcoreapp2.2\10 - Working with dates and times.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\bin\Debug\netcoreapp2.2\10 - Working with dates and times.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\bin\Debug\netcoreapp2.2\10 - Working with dates and times.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\bin\Debug\netcoreapp2.2\10 - Working with dates and times.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\obj\Debug\netcoreapp2.2\10 - Working with dates and times.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\obj\Debug\netcoreapp2.2\10 - Working with dates and times.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\obj\Debug\netcoreapp2.2\10 - Working with dates and times.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\obj\Debug\netcoreapp2.2\10 - Working with dates and times.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\obj\Debug\netcoreapp2.2\10 - Working with dates and times.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\10 - Working with dates and times\obj\Debug\netcoreapp2.2\10 - Working with dates and times.pdb
