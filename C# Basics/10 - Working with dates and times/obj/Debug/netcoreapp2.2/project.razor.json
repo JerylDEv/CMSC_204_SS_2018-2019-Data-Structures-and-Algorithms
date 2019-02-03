@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\10 - Working with dates and times\\10 - Working with dates and times.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
