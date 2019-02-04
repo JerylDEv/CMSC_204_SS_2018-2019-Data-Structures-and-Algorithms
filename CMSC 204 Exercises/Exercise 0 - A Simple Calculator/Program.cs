@@ -63,7 +63,6 @@ namespace Exercise_0___A_Simple_Calculator
       Console.WriteLine($"Sum:\t{num1} + {num2} = {Addition(num1, num2)}");
 
       // Difference
-
       Console.WriteLine($"Difference:\t{num1} - {num2} = {Subtraction(num1, num2)}");
 
       // Product
