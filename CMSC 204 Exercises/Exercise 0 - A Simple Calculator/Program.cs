@@ -8,6 +8,18 @@ namespace Exercise_0___A_Simple_Calculator
     {
       Console.Title = "A Simple Calculator";
 
+      bool displayCalculator = true;
+
+      while (displayCalculator)
+      {
+        displayCalculator = Calculator();
+      }
+    }
+
+    private static bool Calculator()
+    {
+      Console.Clear();
+
       // Accept user input
       Console.Write("Enter a number: ");
       double firstNumber = Convert.ToDouble(Console.ReadLine());
@@ -20,6 +32,26 @@ namespace Exercise_0___A_Simple_Calculator
       DisplayResult(firstNumber, secondNumber);
 
       Console.ReadLine();
+
+      // Try again?
+      Console.WriteLine("Do you want to try again?");
+      Console.WriteLine("1) Yes");
+      Console.WriteLine("2) No / Exit");
+      string optionSelected = Console.ReadLine();
+
+      if (optionSelected == "1")
+      {
+        return true;
+      }
+      else if (optionSelected == "2")
+      {
+        return false;
+      }
+      else
+      {
+        return true;
+      }
+
     }
 
     // Perform the calculation
