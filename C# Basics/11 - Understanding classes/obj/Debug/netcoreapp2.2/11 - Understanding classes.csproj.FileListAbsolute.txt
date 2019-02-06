@@ -1,0 +1,11 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\bin\Debug\netcoreapp2.2\11 - Understanding classes.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\bin\Debug\netcoreapp2.2\11 - Understanding classes.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\bin\Debug\netcoreapp2.2\11 - Understanding classes.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\bin\Debug\netcoreapp2.2\11 - Understanding classes.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\bin\Debug\netcoreapp2.2\11 - Understanding classes.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\obj\Debug\netcoreapp2.2\11 - Understanding classes.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\obj\Debug\netcoreapp2.2\11 - Understanding classes.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\obj\Debug\netcoreapp2.2\11 - Understanding classes.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\obj\Debug\netcoreapp2.2\11 - Understanding classes.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\obj\Debug\netcoreapp2.2\11 - Understanding classes.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\11 - Understanding classes\obj\Debug\netcoreapp2.2\11 - Understanding classes.pdb
