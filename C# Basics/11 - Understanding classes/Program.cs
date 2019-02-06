@@ -20,7 +20,17 @@ namespace _11___Understanding_classes
       // Getting the object properties
       Console.WriteLine($"{myCar.Make} {myCar.Model} {myCar.Year} {myCar.Color}");
 
+      // decimal marketValue = DetermineMarketValue(myCar);
+      // Console.WriteLine($"{marketValue:C}");
+      Console.WriteLine(myCar.DetermineMarketValue());
+
       Console.ReadLine();
+    }
+    // Uppercase C Car is used since we named our Class as such
+    private static decimal DetermineMarketValue(Car car)
+    {
+      decimal carValue = 100.0M;
+      return carValue;
     }
   }
 
@@ -30,6 +40,7 @@ namespace _11___Understanding_classes
   // I'm creating a bucket in Computers Memory that's just the right size to hold information about any given car on my car lot.
   // Here, the Class is the Definition. But when we create a New Instance of this Class, then we are working with an Object.
   // The Class is the blueprint while the Object is something that is created as a result of having the blueprint or the pattern.
+  // class Car is a new Data Type
   class Car
   {
     // 'prop' tab tab is the shortcut
@@ -37,6 +48,30 @@ namespace _11___Understanding_classes
     public string Model { get; set; }
     public int Year { get; set; }
     public string Color { get; set; }
+
+    // This a longer, more complete version of creating a property
+    private int myVar;
+    public int MyProperty
+    {
+      get { return myVar; }
+      set { myVar = value; }
+    }
+
+    // Creating method in a class 
+    public decimal DetermineMarketValue()
+    {
+      decimal carValue;
+      if (Year > 1990)
+      {
+        carValue = 10000;
+      }
+      else
+      {
+        carValue = 2000;
+      }
+      return carValue;
+    }
+
   }
 
 }
