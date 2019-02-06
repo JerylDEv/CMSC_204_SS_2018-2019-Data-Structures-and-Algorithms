@@ -55,7 +55,7 @@ namespace Exercise_0___A_Simple_Calculator
 
     private static void DisplayResult(double num1, double num2)
     {
-      // Create a new calculate object which contains the calculation methods
+      // Declare and create an instance of the Calculate Class which contains all the calculation methods
       Calculate calculate = new Calculate();
 
       // Display the results

@@ -8,7 +8,7 @@ namespace _11___Understanding_classes
     {
       // Here's how we can create a New Instance of a Class
       // Step 1: Declare a new Car in Memory ( Car myCar )
-      // Step 2: Instantiate/Create an Instance of Car and put it up in the Computer Memory ( = new Car() ) 
+      // Step 2: Instantiate/Create an Instance of Car Class and put it up in the Computer Memory ( = new Car() ) 
       Car myCar = new Car();
 
       // Setting the object properties
