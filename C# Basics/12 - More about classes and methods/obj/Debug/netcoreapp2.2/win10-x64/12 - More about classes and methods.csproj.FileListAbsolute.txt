@@ -1,0 +1,14 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\bin\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.exe
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\bin\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\bin\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\bin\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\bin\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\bin\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\obj\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\obj\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\obj\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\obj\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\obj\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\12 - More about classes and methods\obj\Debug\netcoreapp2.2\win10-x64\12 - More about classes and methods.pdb
