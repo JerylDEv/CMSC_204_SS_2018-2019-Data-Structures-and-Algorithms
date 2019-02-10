@@ -4,8 +4,12 @@ namespace _12___More_about_classes_and_methods
 {
   class Program
   {
+
     static void Main(string[] args)
     {
+      /*
+        We will still be using the Method Invocation Operator () even if we erase the Car Class Constructors are not defined, because a Default Constructor is automatically created whenever we compile our Classes. It will be a Constructor without any input parameters and will have no body. (i.e. public Car() { // Empty })
+       */
       Car myCar = new Car();
       myCar.Make = "Old mobile";
       myCar.Model = "Toyota Supra";
@@ -53,6 +57,11 @@ namespace _12___More_about_classes_and_methods
       Car myThirdCar = new Car();
       Console.WriteLine(myThirdCar.Make);
 
+      Car myFourthCar = new Car("Ford", "Mustang", 2017, "Blue");
+      Console.WriteLine($"{myFourthCar.Make} {myFourthCar.Model} {myFourthCar.Year} {myFourthCar.Color}");
+
+      Car.MyMethod();
+
       Console.ReadLine();
     }
   }
@@ -88,7 +97,49 @@ namespace _12___More_about_classes_and_methods
      */
     public Car()
     {
+      /*
+      We could load values in to the various Properties of our Class from a configuration file, a database, etc. in order to get that object in to a "Valid State" so that's immediately usable at the point of instantiation.
+      */
       this.Make = "Nissan";
+    }
+
+    /*
+    Overloaded Constructor
+
+    We will often see this whenever we work with Objects in  the .NET Framework Class Library. Just like when we create an overloaded Method in our Classes by changing the Method's Signature (meaning, the number and the Data Type of the Input Parameters for the Method), we can do the same thing with the Constructor
+    */
+
+    public Car(string make, string model, int year, string color)
+    {
+      Make = make;
+      Model = model;
+      Year = year;
+      Color = color;
+    }
+
+    /*
+    Static Keyword
+
+    Adding Static Keyword means that we do not have to create an Instance of the Class in order to utilize its Methods and Properties. (i.e. Console.WriteLine(""))
+    */
+    public static void MyMethod()
+    {
+      Console.WriteLine("Called the static MyMethod");
+      /*
+      Working with Classes with Static Members vs Instance Members:
+        - Instance Members are a series of Properties that describe, or Methods (i.e. Constructors) that operate on a single instance of a given entity like Car.
+        - Static Members are Utilities (they don't operate on any single instance), they can be used anytime because they do not depend on a state of a given instance of a Class or even the Application itself. They can be used any time because they are not tied to a specific Car, they are true of all Cars and can be used at any time.
+
+      Console.WriteLine(Make);
+
+      Results to:
+      An object reference is required for the non-static field, method, or property 'Car.Make'[12 - More about classes and methods]
+      string Car.Make
+      
+      Note: Why would we need to create a static member of a Class? We could learn from "Design Patterns", "Coding Heuristics"
+
+       - For Static Members, we cannot reference any instance members (Instance Members, Instance Properties, Instance Methods). These instance members require an instance of a class to operate.
+       */
     }
   }
 }
@@ -120,4 +171,6 @@ namespace _12___More_about_classes_and_methods
 
   The process of monitoring memory for objects which do not have any references to them is called Garbage Collection.
 */
+
+
 
