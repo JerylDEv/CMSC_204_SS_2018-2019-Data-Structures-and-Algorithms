@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Self-Assessment 1 - Arrays.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
