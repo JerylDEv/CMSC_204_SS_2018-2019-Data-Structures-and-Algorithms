@@ -9,3 +9,14 @@ C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises\Exercise 0 -
 C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises\Exercise 0 - A Simple Calculator\obj\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.AssemblyInfo.cs
 C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises\Exercise 0 - A Simple Calculator\obj\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.dll
 C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises\Exercise 0 - A Simple Calculator\obj\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\bin\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\bin\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\bin\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\bin\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\bin\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\obj\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\obj\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\obj\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\obj\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\obj\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Exercise 0 - A Simple Calculator\obj\Debug\netcoreapp2.2\Exercise 0 - A Simple Calculator.pdb

@@ -1422,11 +1422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises\\Exercise 0 - A Simple Calculator\\Exercise 0 - A Simple Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Exercise 0 - A Simple Calculator\\Exercise 0 - A Simple Calculator.csproj",
       "projectName": "Exercise 0 - A Simple Calculator",
-      "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises\\Exercise 0 - A Simple Calculator\\Exercise 0 - A Simple Calculator.csproj",
+      "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Exercise 0 - A Simple Calculator\\Exercise 0 - A Simple Calculator.csproj",
       "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises\\Exercise 0 - A Simple Calculator\\obj\\",
+      "outputPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Exercise 0 - A Simple Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
