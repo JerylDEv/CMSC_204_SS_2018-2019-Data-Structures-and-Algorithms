@@ -2,5 +2,13 @@
   "ProjectFilePath": "c:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Self-Assessment 1 - Arrays\\Self-Assessment 1 - Arrays.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": null
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
 }
