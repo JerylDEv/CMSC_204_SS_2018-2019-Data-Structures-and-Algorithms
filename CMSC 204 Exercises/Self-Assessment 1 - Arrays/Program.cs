@@ -18,7 +18,7 @@ namespace Self_Assessment_1___Arrays
       the array.
        */
 
-      Console.Title = "Self-Assessment Numbers Array";
+      Console.Title = "Self-Assessment 1 - Arrays";
 
       double[] numbersList = new double[5];
 
