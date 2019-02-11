@@ -1,0 +1,14 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\bin\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.exe
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\bin\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\bin\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\bin\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\bin\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\bin\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\obj\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\obj\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\obj\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\obj\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\obj\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\13 - Understanding scope and access modifiers\obj\Debug\netcoreapp2.2\win10-x64\13 - Understanding scope and access modifiers.pdb
