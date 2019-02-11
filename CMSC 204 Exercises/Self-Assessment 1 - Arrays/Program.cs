@@ -185,7 +185,7 @@ namespace Self_Assessment_1___Arrays
       /* Sort the copiedArray */
       Array.Sort(copiedArray);
 
-      Console.Write("Resized and sorted array with your number input: \t");
+      Console.Write("Resized and sorted your array with your number input: \t");
       foreach (int number in copiedArray)
       {
         Console.Write(number);
@@ -213,12 +213,17 @@ namespace Self_Assessment_1___Arrays
 
       Array.Sort(copiedArray); // Sort the copiedArray to isolate the minimum number at index 0.
       double minNumber = copiedArray[0]; // assign the minimum number in to a variable of double type.
-      copiedArray = copiedArray.Where((number) => number != minNumber).ToArray(); // created a Linq query to filter out the minimum number from the arrayInput.
+
+      /* I created another copy of the arrayInput to have another array that isn't sorted yet. */
+      double[] copiedArrayNotSorted = new double[arrayInput.Length];
+      arrayInput.CopyTo(copiedArrayNotSorted, 0);
+
+      copiedArrayNotSorted = copiedArrayNotSorted.Where((number) => number != minNumber).ToArray(); // created a Linq query to filter out the minimum number from the arrayInput.
 
       // Console.WriteLine(arrayInput.Length); I noticed that this resulted to 4 meaning the Linq query I made automatically resized the arrayInput.
 
       Console.Write("This is your array without the minimum number: \t");
-      foreach (int number in copiedArray)
+      foreach (int number in copiedArrayNotSorted)
       {
         Console.Write(number);
         Console.Write(" ");
