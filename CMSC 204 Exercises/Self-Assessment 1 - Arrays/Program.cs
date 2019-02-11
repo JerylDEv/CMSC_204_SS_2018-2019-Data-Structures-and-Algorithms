@@ -204,6 +204,7 @@ namespace Self_Assessment_1___Arrays
       /* Sort the copiedArray */
       Array.Sort(copiedArray);
 
+      Console.WriteLine(" ");
       Console.Write("Resized and sorted your array with your number input: \t");
       foreach (int number in copiedArray)
       {
