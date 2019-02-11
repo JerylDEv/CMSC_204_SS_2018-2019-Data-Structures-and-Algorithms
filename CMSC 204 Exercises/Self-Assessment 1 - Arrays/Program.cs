@@ -172,15 +172,34 @@ namespace Self_Assessment_1___Arrays
       double[] copiedArray = new double[arrayInput.Length];
       arrayInput.CopyTo(copiedArray, 0);
 
-      Console.Write("Enter a number: ");
-      double numberInput = Convert.ToDouble(Console.ReadLine());
-      Console.WriteLine(" ");
+      // Console.Write("Enter a number: ");
+      // double numberInput = Convert.ToDouble(Console.ReadLine());
+      // Console.WriteLine(" ");
+
+      double numberInputTypeDouble = 0;
+      bool validNumber = false;
+
+      /* Validate if number input can be converted into type Double */
+      while (!validNumber) // while not a valid number
+      {
+        Console.Write("Enter a number: "); // ask for a number
+        string input = Console.ReadLine(); // read the input number as a string first
+        if (double.TryParse(input, out numberInputTypeDouble) == false) // try to convert the string input in to type double, and if it results to false
+        {
+          Console.WriteLine("Please enter a number."); // ask for a number again.
+        }
+        else
+        {
+          validNumber = true; // otherwise, end the loop.
+        }
+      }
+
 
       /* Resize the copiedArray to increase its size by 1 */
       Array.Resize(ref copiedArray, copiedArray.Length + 1);
 
       /* Add the number input into the last index in the newly resized copiedArray */
-      copiedArray[copiedArray.Length - 1] = numberInput;
+      copiedArray[copiedArray.Length - 1] = numberInputTypeDouble;
 
       /* Sort the copiedArray */
       Array.Sort(copiedArray);
