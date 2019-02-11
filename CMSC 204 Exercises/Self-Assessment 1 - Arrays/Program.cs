@@ -107,7 +107,7 @@ namespace Self_Assessment_1___Arrays
       /* Code to reverse the array */
       Array.Reverse(copiedArray);
 
-      Console.Write("This is the reversal of your array: \t");
+      Console.Write("Reversed your array: \t");
       foreach (int number in copiedArray)
       {
         Console.Write(number);
