@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\14 - Understanding namespaces and working with .NET Class Library\\14 - Understanding namespaces and working with .NET Class Library.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

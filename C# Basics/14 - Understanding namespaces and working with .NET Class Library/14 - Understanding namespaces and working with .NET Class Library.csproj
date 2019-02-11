@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>_14___Understanding_namespaces_and_working_with_.NET_Class_Library</RootNamespace>
+  </PropertyGroup>
+
+</Project>
