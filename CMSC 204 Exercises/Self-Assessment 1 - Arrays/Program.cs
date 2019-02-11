@@ -38,7 +38,7 @@ namespace Self_Assessment_1___Arrays
         }
       }
 
-      Console.WriteLine(" ");
+      Console.Write(" ");
 
       Console.WriteLine($"This is your array of 5 numbers: \t{numbersList[0]} {numbersList[1]} {numbersList[2]} {numbersList[3]} {numbersList[4]}");
 
@@ -100,15 +100,23 @@ namespace Self_Assessment_1___Arrays
       Console.WriteLine($"This is your array: \t{arrayInput[0]} {arrayInput[1]} {arrayInput[2]} {arrayInput[3]} {arrayInput[4]}");
       Console.WriteLine(" ");
 
+      /* I copied the elements of the arrayInput to the new copied Array so that I could not permanently effect changes to the original arrayInput */
+      double[] copiedArray = new double[arrayInput.Length];
+      arrayInput.CopyTo(copiedArray, 0);
+
       /* Code to reverse the array */
-      Array.Reverse(arrayInput);
+      Array.Reverse(copiedArray);
 
       Console.Write("This is the reversal of your array: \t");
-      foreach (int number in arrayInput)
+      foreach (int number in copiedArray)
       {
         Console.Write(number);
         Console.Write(" ");
       }
+      Console.WriteLine(" ");
+
+      Console.WriteLine(" ");
+      Console.WriteLine("Press Enter to go back to the Main Menu.");
       Console.WriteLine(" ");
 
       Console.ReadLine();
@@ -121,13 +129,17 @@ namespace Self_Assessment_1___Arrays
       Console.WriteLine($"This is your array: \t{arrayInput[0]} {arrayInput[1]} {arrayInput[2]} {arrayInput[3]} {arrayInput[4]}");
       Console.WriteLine(" ");
 
+      /* I copied the elements of the arrayInput to the new copied Array so that I could not permanently effect changes to the original arrayInput */
+      double[] copiedArray = new double[arrayInput.Length];
+      arrayInput.CopyTo(copiedArray, 0);
+
       /* Another sorted array */
       double[] anotherSortedArray = new double[] { 2, 24, 38, 416, 532 };
 
       /* Merge the two arrays */
-      double[] mergedArray = new double[arrayInput.Length + anotherSortedArray.Length];
-      arrayInput.CopyTo(mergedArray, 0); // ArrayInput elements will be copied to the first 5 indexes of the separate array called mergedArray.
-      anotherSortedArray.CopyTo(mergedArray, arrayInput.Length); // anotherSortedArray elements will be copied to the indexes of the mergedArray after the ArrayInput elements.
+      double[] mergedArray = new double[copiedArray.Length + anotherSortedArray.Length];
+      copiedArray.CopyTo(mergedArray, 0); // copiedArray elements will be copied to the first 5 indexes of the separate array called mergedArray.
+      anotherSortedArray.CopyTo(mergedArray, copiedArray.Length); // anotherSortedArray elements will be copied to the indexes of the mergedArray after the copiedArray elements.
 
       /* Code to sort the arrays */
       Array.Sort(mergedArray);
@@ -142,6 +154,10 @@ namespace Self_Assessment_1___Arrays
       }
       Console.WriteLine(" ");
 
+      Console.WriteLine(" ");
+      Console.WriteLine("Press Enter to go back to the Main Menu.");
+      Console.WriteLine(" ");
+
       Console.ReadLine();
     }
 
@@ -152,26 +168,33 @@ namespace Self_Assessment_1___Arrays
       Console.WriteLine($"This is your array: \t{arrayInput[0]} {arrayInput[1]} {arrayInput[2]} {arrayInput[3]} {arrayInput[4]}");
       Console.WriteLine(" ");
 
+      /* I copied the elements of the arrayInput to the new copied Array so that I could not permanently effect changes to the original arrayInput */
+      double[] copiedArray = new double[arrayInput.Length];
+      arrayInput.CopyTo(copiedArray, 0);
+
       Console.Write("Enter a number: ");
+      double numberInput = Convert.ToDouble(Console.ReadLine());
       Console.WriteLine(" ");
 
-      double numberInput = Convert.ToDouble(Console.ReadLine());
+      /* Resize the copiedArray to increase its size by 1 */
+      Array.Resize(ref copiedArray, copiedArray.Length + 1);
 
-      /* Resize the arrayInput to increase its size by 1 */
-      Array.Resize(ref arrayInput, arrayInput.Length + 1);
+      /* Add the number input into the last index in the newly resized copiedArray */
+      copiedArray[copiedArray.Length - 1] = numberInput;
 
-      /* Add the number input into the last index in the newly resized array */
-      arrayInput[arrayInput.Length - 1] = numberInput;
+      /* Sort the copiedArray */
+      Array.Sort(copiedArray);
 
-      /* Code to sort the arrays */
-      Array.Sort(arrayInput);
-
-      Console.Write("Resized array with your number input: \t");
-      foreach (int number in arrayInput)
+      Console.Write("Resized and sorted array with your number input: \t");
+      foreach (int number in copiedArray)
       {
         Console.Write(number);
         Console.Write(" ");
       }
+      Console.WriteLine(" ");
+
+      Console.WriteLine(" ");
+      Console.WriteLine("Press Enter to go back to the Main Menu.");
       Console.WriteLine(" ");
 
       Console.ReadLine();
@@ -184,21 +207,27 @@ namespace Self_Assessment_1___Arrays
       Console.WriteLine($"This is your array: \t{arrayInput[0]} {arrayInput[1]} {arrayInput[2]} {arrayInput[3]} {arrayInput[4]}");
       Console.WriteLine(" ");
 
-      /* Code to sort the arrays */
-      Array.Sort(arrayInput); // to isolate the minimum number at index 0.
-      double minNumber = arrayInput[0]; // assigning the minimum number in to a variable of double type.
-      arrayInput = arrayInput.Where((number) => number != minNumber).ToArray(); // created a Linq query to filter out the minimum number from the arrayInput.
+      /* I copied the elements of the arrayInput to the new copied Array so that I could not permanently effect changes to the original arrayInput */
+      double[] copiedArray = new double[arrayInput.Length];
+      arrayInput.CopyTo(copiedArray, 0);
+
+      Array.Sort(copiedArray); // Sort the copiedArray to isolate the minimum number at index 0.
+      double minNumber = copiedArray[0]; // assign the minimum number in to a variable of double type.
+      copiedArray = copiedArray.Where((number) => number != minNumber).ToArray(); // created a Linq query to filter out the minimum number from the arrayInput.
 
       // Console.WriteLine(arrayInput.Length); I noticed that this resulted to 4 meaning the Linq query I made automatically resized the arrayInput.
 
-      Console.Write("This is the array without the minimum number: \t");
-      foreach (int number in arrayInput)
+      Console.Write("This is your array without the minimum number: \t");
+      foreach (int number in copiedArray)
       {
         Console.Write(number);
         Console.Write(" ");
       }
       Console.WriteLine(" ");
 
+      Console.WriteLine(" ");
+      Console.WriteLine("Press Enter to go back to the Main Menu.");
+      Console.WriteLine(" ");
 
       Console.ReadLine();
     }
