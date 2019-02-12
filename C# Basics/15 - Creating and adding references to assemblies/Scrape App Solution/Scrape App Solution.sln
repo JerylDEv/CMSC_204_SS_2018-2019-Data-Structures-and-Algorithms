@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrape Console App", "Scrape Console App\Scrape Console App.csproj", "{7A03B06B-7D29-4EE1-A25F-28C5A82CB17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My Scrape Class Library", "My Scrape Class Library\My Scrape Class Library.csproj", "{3C2B93B8-999B-49BE-9568-A125B8667244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A03B06B-7D29-4EE1-A25F-28C5A82CB17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A03B06B-7D29-4EE1-A25F-28C5A82CB17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A03B06B-7D29-4EE1-A25F-28C5A82CB17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A03B06B-7D29-4EE1-A25F-28C5A82CB17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2B93B8-999B-49BE-9568-A125B8667244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2B93B8-999B-49BE-9568-A125B8667244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2B93B8-999B-49BE-9568-A125B8667244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2B93B8-999B-49BE-9568-A125B8667244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31298CED-0ECA-4B03-B53E-94107ABCAF54}
+	EndGlobalSection
+EndGlobal
