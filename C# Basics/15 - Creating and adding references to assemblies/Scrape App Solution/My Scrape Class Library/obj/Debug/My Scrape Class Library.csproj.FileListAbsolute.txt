@@ -1,0 +1,6 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\My Scrape Class Library\bin\Debug\My Scrape Class Library.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\My Scrape Class Library\bin\Debug\My Scrape Class Library.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\My Scrape Class Library\obj\Debug\My Scrape Class Library.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\My Scrape Class Library\obj\Debug\My Scrape Class Library.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\My Scrape Class Library\obj\Debug\My Scrape Class Library.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\My Scrape Class Library\obj\Debug\My Scrape Class Library.pdb

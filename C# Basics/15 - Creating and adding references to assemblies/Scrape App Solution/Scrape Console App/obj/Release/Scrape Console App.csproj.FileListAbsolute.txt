@@ -1,0 +1,10 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\bin\Release\Scrape Console App.exe.config
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\bin\Release\Scrape Console App.exe
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\bin\Release\Scrape Console App.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\bin\Release\My Scrape Class Library.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\bin\Release\My Scrape Class Library.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\obj\Release\Scrape Console App.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\obj\Release\Scrape Console App.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\obj\Release\Scrape Console App.csproj.CopyComplete
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\obj\Release\Scrape Console App.exe
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\Scrape App Solution\Scrape Console App\obj\Release\Scrape Console App.pdb

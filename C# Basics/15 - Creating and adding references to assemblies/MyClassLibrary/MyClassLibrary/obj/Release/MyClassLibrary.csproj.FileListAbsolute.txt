@@ -1,0 +1,5 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\MyClassLibrary\MyClassLibrary\bin\Release\MyClassLibrary.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\MyClassLibrary\MyClassLibrary\bin\Release\MyClassLibrary.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\MyClassLibrary\MyClassLibrary\obj\Release\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\MyClassLibrary\MyClassLibrary\obj\Release\MyClassLibrary.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\C# Basics\15 - Creating and adding references to assemblies\MyClassLibrary\MyClassLibrary\obj\Release\MyClassLibrary.pdb

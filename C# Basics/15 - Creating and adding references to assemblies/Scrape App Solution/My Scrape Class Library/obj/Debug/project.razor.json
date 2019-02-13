@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\C# Basics\\15 - Creating and adding references to assemblies\\Scrape App Solution\\My Scrape Class Library\\My Scrape Class Library.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
