@@ -1,0 +1,7 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Console App\bin\Debug\Arrays Console App.exe.config
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Console App\bin\Debug\Arrays Console App.exe
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Console App\bin\Debug\Arrays Console App.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Console App\obj\Debug\Arrays Console App.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Console App\obj\Debug\Arrays Console App.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Console App\obj\Debug\Arrays Console App.exe
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Console App\obj\Debug\Arrays Console App.pdb
