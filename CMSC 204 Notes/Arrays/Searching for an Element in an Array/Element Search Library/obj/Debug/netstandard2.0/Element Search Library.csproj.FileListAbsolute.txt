@@ -1,0 +1,9 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Library\bin\Debug\netstandard2.0\Element Search Library.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Library\bin\Debug\netstandard2.0\Element Search Library.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Library\bin\Debug\netstandard2.0\Element Search Library.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Library\obj\Debug\netstandard2.0\Element Search Library.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Library\obj\Debug\netstandard2.0\Element Search Library.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Library\obj\Debug\netstandard2.0\Element Search Library.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Library\obj\Debug\netstandard2.0\Element Search Library.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Library\obj\Debug\netstandard2.0\Element Search Library.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Library\obj\Debug\netstandard2.0\Element Search Library.pdb
