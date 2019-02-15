@@ -22,12 +22,11 @@ namespace Arrays_Class_Library
             arrayInput.CopyTo(copiedArray, 0);
 
             /* Code to reverse the array */
-            Array.Reverse(copiedArray);
-
+            // Array.Reverse(copiedArray);
             Console.Write("Reversed your array: \t");
-            foreach (double number in copiedArray)
+            for (int i = copiedArray.Length - 1; i >= 0; i--)
             {
-                Console.Write(number);
+                Console.Write(copiedArray[i]);
                 Console.Write(" ");
             }
             Console.WriteLine(" ");

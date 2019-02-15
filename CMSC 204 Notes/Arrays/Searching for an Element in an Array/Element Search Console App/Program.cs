@@ -29,9 +29,7 @@ namespace Element_Search_Console_App
        * I think if the data can be sorted (let's say in an ascending manner) then we can use Binary Search for effective searching.
        */
 
-
       Console.ReadLine();
-
     }
   }
 }

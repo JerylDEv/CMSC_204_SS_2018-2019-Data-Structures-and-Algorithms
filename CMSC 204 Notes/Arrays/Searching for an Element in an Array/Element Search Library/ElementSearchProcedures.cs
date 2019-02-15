@@ -84,6 +84,4 @@ namespace Element_Search_Library
     }
 
   }
-
-
 }
