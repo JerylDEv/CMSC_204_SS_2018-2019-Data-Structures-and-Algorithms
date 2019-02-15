@@ -40,6 +40,9 @@ namespace Element_Search_Library
 
     public void BinarySearch(int[] arrayInput, int number)
     {
+      // Binary Search requires a sorted Array thus I'm adding this code to ensure that the array is indeed sorted.
+      Array.Sort(arrayInput);
+
       /*
        * BinarySearch(A,x)
        * begin
@@ -54,9 +57,9 @@ namespace Element_Search_Library
        *    else return(FALSE)
        * end
        */
+
       int lower = 0;
-      int N = arrayInput.Length;
-      int upper = N - 1;
+      int upper = arrayInput.Length - 1;
       do
       {
         int middle = (lower + upper) / 2;

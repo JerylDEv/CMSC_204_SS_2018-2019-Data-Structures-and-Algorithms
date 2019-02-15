@@ -18,10 +18,16 @@ namespace Element_Search_Console_App
       search.SequentialSearch(numbersList, findTest1);
       Console.WriteLine(" ");
 
-      // Important: Binary Search works only in sorted data.
-      Array.Sort(numbersList);
+      // Important: Binary Search works only in sorted data. Note that the sorting happens within the Binary Search method
       search.BinarySearch(numbersList, findTest1);
       Console.WriteLine(" ");
+
+      /*
+       * Observations:
+       * Binary Search requires data to be sorted in order for it to work properly.
+       * Binary Search is way faster that Sequential Search.
+       * I think if the data can be sorted (let's say in an ascending manner) then we can use Binary Search for effective searching.
+       */
 
 
       Console.ReadLine();
