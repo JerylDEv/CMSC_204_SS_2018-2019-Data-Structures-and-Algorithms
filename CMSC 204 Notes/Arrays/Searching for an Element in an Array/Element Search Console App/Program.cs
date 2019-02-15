@@ -25,7 +25,7 @@ namespace Element_Search_Console_App
       /*
        * Observations:
        * Binary Search requires data to be sorted in order for it to work properly.
-       * Binary Search is way faster that Sequential Search.
+       * Binary Search is way faster that Sequential Search. This is evidenced by how many lines I was able to produce for Sequential Search vs Binary Search.
        * I think if the data can be sorted (let's say in an ascending manner) then we can use Binary Search for effective searching.
        */
 
