@@ -1,0 +1,6 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\bin\Release\Arrays Class Library.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\bin\Release\Arrays Class Library.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Release\Arrays Class Library.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Release\Arrays Class Library.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Release\Arrays Class Library.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Release\Arrays Class Library.pdb

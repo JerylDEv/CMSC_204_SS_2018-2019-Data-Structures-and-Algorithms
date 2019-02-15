@@ -12,6 +12,8 @@ namespace Arrays_Class_Library
         {
             Console.Clear();
 
+            Console.WriteLine("1) Reverse the array");
+            Console.WriteLine(" ");
             Console.WriteLine($"This is your array: \t{arrayInput[0]} {arrayInput[1]} {arrayInput[2]} {arrayInput[3]} {arrayInput[4]}");
             Console.WriteLine(" ");
 
@@ -23,7 +25,7 @@ namespace Arrays_Class_Library
             Array.Reverse(copiedArray);
 
             Console.Write("Reversed your array: \t");
-            foreach (int number in copiedArray)
+            foreach (double number in copiedArray)
             {
                 Console.Write(number);
                 Console.Write(" ");
@@ -41,6 +43,8 @@ namespace Arrays_Class_Library
         {
             Console.Clear();
 
+            Console.WriteLine("2) Merge two sorted arrays");
+            Console.WriteLine(" ");
             Console.WriteLine($"This is your array: \t{arrayInput[0]} {arrayInput[1]} {arrayInput[2]} {arrayInput[3]} {arrayInput[4]}");
             Console.WriteLine(" ");
 
@@ -62,7 +66,7 @@ namespace Arrays_Class_Library
             Console.WriteLine("Another sorted array: \t2 24 38 416 532");
             Console.WriteLine(" ");
             Console.Write("Merged and sorted the two arrays: \t");
-            foreach (int number in mergedArray)
+            foreach (double number in mergedArray)
             {
                 Console.Write(number);
                 Console.Write(" ");
@@ -80,6 +84,8 @@ namespace Arrays_Class_Library
         {
             Console.Clear();
 
+            Console.WriteLine("3) Insert an element into the array");
+            Console.WriteLine(" ");
             Console.WriteLine($"This is your array: \t{arrayInput[0]} {arrayInput[1]} {arrayInput[2]} {arrayInput[3]} {arrayInput[4]}");
             Console.WriteLine(" ");
 
@@ -121,7 +127,7 @@ namespace Arrays_Class_Library
 
             Console.WriteLine(" ");
             Console.Write("Resized and sorted the array with your number input: \t");
-            foreach (int number in copiedArray)
+            foreach (double number in copiedArray)
             {
                 Console.Write(number);
                 Console.Write(" ");
@@ -139,6 +145,8 @@ namespace Arrays_Class_Library
         {
             Console.Clear();
 
+            Console.WriteLine("4) Find the minimum in the array and delete it");
+            Console.WriteLine(" ");
             Console.WriteLine($"This is your array: \t{arrayInput[0]} {arrayInput[1]} {arrayInput[2]} {arrayInput[3]} {arrayInput[4]}");
             Console.WriteLine(" ");
 
@@ -158,7 +166,7 @@ namespace Arrays_Class_Library
             // Console.WriteLine(arrayInput.Length); I noticed that this resulted to 4 meaning the Linq query I made automatically resized the arrayInput.
 
             Console.Write("This is your array without the minimum number: \t");
-            foreach (int number in copiedArrayNotSorted)
+            foreach (double number in copiedArrayNotSorted)
             {
                 Console.Write(number);
                 Console.Write(" ");

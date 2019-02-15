@@ -63,6 +63,8 @@ namespace Arrays_Console_App
             Console.WriteLine("3) Insert an element into the array");
             Console.WriteLine("4) Find the minimum in the array and delete it");
             Console.WriteLine("5) Exit");
+            Console.WriteLine(" ");
+            Console.Write("Operation selected: \t");
             string optionSelected = Console.ReadLine();
 
             // Create an object instance of the ArraysProcedures Class;
