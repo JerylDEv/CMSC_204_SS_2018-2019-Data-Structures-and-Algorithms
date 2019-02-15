@@ -10,15 +10,22 @@ namespace Element_Search_Console_App
       ElementSearchProcedures search = new ElementSearchProcedures();
       search.Hello();
 
-      double[] numbersList = { 11, 200, 35, 46, 500 };
-      double findTest1 = 200;
-      double findTest2 = 12;
+      int[] numbersList = new int[10] { 1, 3, 5, 7, 200, 13, 17, 19, 23, 31 };
+      int findTest1 = 19;
+      //int findTest2 = 12;
 
+      // Important: Sequential Search works in both sorted and unsorted data.
       search.SequentialSearch(numbersList, findTest1);
       Console.WriteLine(" ");
-      search.SequentialSearch(numbersList, findTest2);
+
+      // Important: Binary Search works only in sorted data.
+      Array.Sort(numbersList);
+      search.BinarySearch(numbersList, findTest1);
+      Console.WriteLine(" ");
+
 
       Console.ReadLine();
+
     }
   }
 }

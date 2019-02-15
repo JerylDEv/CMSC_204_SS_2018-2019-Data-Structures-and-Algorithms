@@ -11,7 +11,7 @@ namespace Element_Search_Library
       Console.ReadLine();
     }
 
-    public void SequentialSearch(double[] arrayInput, double number)
+    public void SequentialSearch(int[] arrayInput, int number)
     {
       /*
        * SequentialSearch(A,x)
@@ -25,31 +25,61 @@ namespace Element_Search_Library
        * end
        */
 
-      foreach (double element in arrayInput)
+      for (int ptr = 0; ptr < arrayInput.Length; ptr++)
       {
-        if (element == number) // True
+        if (arrayInput[ptr] == number) // True
         {
-          Console.WriteLine($"Number {number} matches element {element} inside the array."); // True
-
+          Console.WriteLine($"Number {number} matches element {arrayInput[ptr]} inside the array."); // True
         }
         else
         {
-          Console.WriteLine($"Number {number} does not match element {element} inside the array."); // False
+          Console.WriteLine($"Number {number} does not match element {arrayInput[ptr]} inside the array."); // False
         }
       }
     }
 
-    public void BinarySearch(double[] arrayInput, double number)
+    public void BinarySearch(int[] arrayInput, int number)
     {
       /*
-       *
-       *
-       *
-       *
-       *
-       *
+       * BinarySearch(A,x)
+       * begin
+       *    lower = 1;
+       *    upper = n;
+       *    repeat
+       *        middle = (lower + upper) div 2;
+       *        if x > A[middle] lower = middle + 1;
+       *          else upper = middle - 1;
+       *    until (A[middle]=x) or (lower > upper);
+       *    if (A[middle] = x) return(TRUE)
+       *    else return(FALSE)
+       * end
        */
+      int lower = 0;
+      int N = arrayInput.Length;
+      int upper = N - 1;
+      do
+      {
+        int middle = (lower + upper) / 2;
+        if (number > arrayInput[middle])
+        {
+          lower = middle + 1;
+        }
+        else
+        {
+          upper = middle - 1;
+        }
+        if (arrayInput[middle] == number)
+        {
+          Console.WriteLine($"Number {arrayInput[middle].ToString()} is at position {middle + 1}.");
+        }
+        else
+        {
+          Console.WriteLine("Number not found.");
+        }
+      } while (lower <= upper);
+
     }
+
   }
 
 

@@ -1,0 +1,17 @@
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\Element Search Console App.exe
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\Element Search Console App.deps.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\Element Search Console App.runtimeconfig.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\Element Search Console App.runtimeconfig.dev.json
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\Element Search Console App.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\Element Search Console App.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\Element Search Library.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\bin\Debug\netcoreapp2.2\win10-x64\Element Search Library.pdb
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\obj\Debug\netcoreapp2.2\win10-x64\Element Search Console App.csprojAssemblyReference.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\obj\Debug\netcoreapp2.2\win10-x64\Element Search Console App.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\obj\Debug\netcoreapp2.2\win10-x64\Element Search Console App.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\obj\Debug\netcoreapp2.2\win10-x64\Element Search Console App.AssemblyInfo.cs
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\obj\Debug\netcoreapp2.2\win10-x64\Element Search Console App.csproj.CopyComplete
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\obj\Debug\netcoreapp2.2\win10-x64\Element Search Console App.dll
+C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Notes\Arrays\Searching for an Element in an Array\Element Search Console App\obj\Debug\netcoreapp2.2\win10-x64\Element Search Console App.pdb
