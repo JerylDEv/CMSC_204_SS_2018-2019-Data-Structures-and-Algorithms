@@ -11,6 +11,14 @@ namespace Element_Search_Library
       Console.ReadLine();
     }
 
+    /*
+     *  For One Dimensional Arrays:
+     *  1. Sequential Search
+     *  2. Binary Search
+     *
+     *  For Two Dimensional Arrays:
+     *  1. Two Dimensional Array Search
+     */
     public void SequentialSearch(int[] arrayInput, int number)
     {
       /*
@@ -80,6 +88,11 @@ namespace Element_Search_Library
           Console.WriteLine("Number not found.");
         }
       } while (lower <= upper);
+
+    }
+
+    public void TwoDimensionalArraySearch()
+    {
 
     }
 
