@@ -121,7 +121,7 @@ namespace Element_Search_Library
       {
         for (int inner = arrayInput.GetLowerBound(1); inner <= arrayInput.GetUpperBound(1); inner++)
         {
-          Console.WriteLine($"\t{'\u007b'}{outer}, {inner}{'\u007d'} = {arrayInput.GetValue(outer, inner)}");
+          Console.WriteLine($"\t{{{outer}, {inner}}} = {arrayInput.GetValue(outer, inner)}");
         }
       }
     }
