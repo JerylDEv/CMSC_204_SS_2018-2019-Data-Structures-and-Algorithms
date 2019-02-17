@@ -7,6 +7,8 @@ namespace Element_Search_Console_App
   {
     static void Main(string[] args)
     {
+      Console.WriteLine(" ");
+
       OneDimensionalArray();
 
       MultiDimensionalArray();
@@ -49,23 +51,12 @@ namespace Element_Search_Console_App
 
     private static void MultiDimensionalArray()
     {
-      int[,] numbers = new int[3, 2] { { 1, 2 }, { 3, 4 }, { 5, 6 } };
+      ElementSearchProcedures search = new ElementSearchProcedures();
 
-      Console.WriteLine(numbers[0, 0]);
-      Console.WriteLine(numbers[0, 1]);
-      Console.WriteLine(numbers[1, 0]);
-      Console.WriteLine(numbers[1, 1]);
-      Console.WriteLine(numbers[2, 0]);
-      Console.WriteLine(numbers[2, 1]);
+      int[,] numbers = new int[,] { { 1, 2 }, { 3, 4 }, { 5, 6 } };
 
-      var allLength = numbers.Length;
-      var total = 1;
-      for (int i = 0; i < numbers.Rank; i++)
-      {
-        total *= numbers.GetLength(i);
-      }
-
-      Console.WriteLine($"allLength of {allLength} equals total {total}");
+      // Two Dimensional Arrays
+      search.TwoDimensionalArrayDisplay(numbers);
     }
   }
 }

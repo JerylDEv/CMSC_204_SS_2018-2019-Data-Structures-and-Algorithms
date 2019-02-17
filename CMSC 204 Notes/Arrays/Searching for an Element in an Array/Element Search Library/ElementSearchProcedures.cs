@@ -91,10 +91,39 @@ namespace Element_Search_Library
 
     }
 
-    public void TwoDimensionalArraySearch()
+    public void TwoDimensionalArrayDisplay(int[,] arrayInput)
     {
 
-    }
+      Console.WriteLine("Multidimensional Arrays");
+      Console.WriteLine(" ");
+      // Get the dimensions of the multidimensional array
+      int dimensions = arrayInput.Rank;
+      Console.WriteLine($"Dimensions of the Array: {dimensions}");
+      for (int i = 0; i < dimensions; i++)
+      {
+        Console.WriteLine($"\tDimension {i}: from {arrayInput.GetLowerBound(i)} to {arrayInput.GetUpperBound(i)}");
+      }
+      Console.WriteLine(" ");
 
+      // Iterate the 2-dimensional array and display its values
+      /*
+      *  SearchA2DArray(M,x)
+      *  begin
+      *    found = FALSE
+      *    for i = 1 to n do
+      *      for j = 1 to n do
+      *        if A[i,j] = x then found = TRUE
+      *    return(found)
+      *  end
+      */
+      Console.WriteLine("Values of array elements:");
+      for (int outer = arrayInput.GetLowerBound(0); outer <= arrayInput.GetUpperBound(0); outer++)
+      {
+        for (int inner = arrayInput.GetLowerBound(1); inner <= arrayInput.GetUpperBound(1); inner++)
+        {
+          Console.WriteLine($"\t{'\u007b'}{outer}, {inner}{'\u007d'} = {arrayInput.GetValue(outer, inner)}");
+        }
+      }
+    }
   }
 }
