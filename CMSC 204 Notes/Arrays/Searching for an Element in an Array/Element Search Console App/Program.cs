@@ -24,6 +24,7 @@ namespace Element_Search_Console_App
 
 
       int[] numbersList = new int[10] { 1, 3, 5, 7, 200, 13, 17, 19, 23, 31 };
+      Console.WriteLine("int[] numbersList = new int[10] { 1, 3, 5, 7, 200, 13, 17, 19, 23, 31 };");
       int findTest1 = 19;
       //int findTest2 = 12;
 
@@ -54,9 +55,15 @@ namespace Element_Search_Console_App
       ElementSearchProcedures search = new ElementSearchProcedures();
 
       int[,] numbers = new int[,] { { 1, 2 }, { 3, 4 }, { 5, 6 } };
+      Console.WriteLine("int[,] numbers = new int[,] { { 1, 2 }, { 3, 4 }, { 5, 6 } };");
 
       // Two Dimensional Arrays
       search.TwoDimensionalArrayDisplay(numbers);
+      Console.WriteLine(" ");
+      search.TwoDimensionalArraySearch(numbers, 6);
+      Console.WriteLine(" ");
+      search.TwoDimensionalArraySearch(numbers, 7);
+      Console.WriteLine(" ");
     }
   }
 }

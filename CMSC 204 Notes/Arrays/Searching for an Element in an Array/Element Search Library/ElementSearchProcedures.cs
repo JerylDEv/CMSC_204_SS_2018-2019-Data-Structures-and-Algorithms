@@ -106,16 +106,6 @@ namespace Element_Search_Library
       Console.WriteLine(" ");
 
       // Iterate the 2-dimensional array and display its values
-      /*
-      *  SearchA2DArray(M,x)
-      *  begin
-      *    found = FALSE
-      *    for i = 1 to n do
-      *      for j = 1 to n do
-      *        if A[i,j] = x then found = TRUE
-      *    return(found)
-      *  end
-      */
       Console.WriteLine("Values of array elements:");
       for (int outer = arrayInput.GetLowerBound(0); outer <= arrayInput.GetUpperBound(0); outer++)
       {
@@ -123,6 +113,44 @@ namespace Element_Search_Library
         {
           Console.WriteLine($"\t{{{outer}, {inner}}} = {arrayInput.GetValue(outer, inner)}");
         }
+      }
+    }
+
+    public void TwoDimensionalArraySearch(int[,] arrayInput, int number)
+    {
+      Console.WriteLine("Multidimensional Array Search");
+      Console.WriteLine(" ");
+      var rowLowerLimit = arrayInput.GetLowerBound(0);
+      var rowUpperLimit = arrayInput.GetUpperBound(0);
+
+      var columnLowerLimit = arrayInput.GetLowerBound(1);
+      var columnUpperLimit = arrayInput.GetUpperBound(1);
+
+      /*
+       *  SearchA2DArray(M,x)
+       *  begin
+       *    found = FALSE
+       *    for i = 1 to n do
+       *      for j = 1 to n do
+       *        if A[i,j] = x then found = TRUE
+       *    return(found)
+       *  end
+       */
+      int currentNumber = 0;
+      for (int row = rowLowerLimit; row <= rowUpperLimit; row++)
+      {
+        for (int column = columnLowerLimit; column <= columnUpperLimit; column++)
+        {
+          currentNumber = (int)arrayInput.GetValue(row, column);
+          if (number == currentNumber)
+          {
+            Console.WriteLine($"Number {currentNumber} is at position {{{row}, {column}}}");
+          }
+        }
+      }
+      if (number != currentNumber)
+      {
+        Console.WriteLine("Number not found.");
       }
     }
   }
