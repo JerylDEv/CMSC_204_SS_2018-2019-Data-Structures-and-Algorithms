@@ -22,7 +22,6 @@ namespace Element_Search_Console_App
       // Element_Search_Library Test
       // search.Hello();
 
-
       int[] numbersList = new int[10] { 1, 3, 5, 7, 200, 13, 17, 19, 23, 31 };
       Console.WriteLine("int[] numbersList = new int[10] { 1, 3, 5, 7, 200, 13, 17, 19, 23, 31 };");
       int findTest1 = 19;
