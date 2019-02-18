@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Multidimensional Arrays Console App/1.0.0": {
+        "runtime": {
+          "Multidimensional Arrays Console App.dll": {}
+        }
+      },
+      "Multidimensional Arrays Class Library/1.0.0": {
+        "runtime": {
+          "Multidimensional Arrays Class Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multidimensional Arrays Console App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Multidimensional Arrays Class Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
