@@ -8,5 +8,10 @@ namespace Multidimensional_Arrays_Class_Library
     {
       Console.WriteLine("Hello World!");
     }
+
+    public void TicTacToePatternSearch()
+    {
+
+    }
   }
 }
