@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Multidimensional Arrays Class Library\Multidimensional Arrays Class Library.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Multidimensional_Arrays_Console_App</RootNamespace>
+  </PropertyGroup>
+
+</Project>
