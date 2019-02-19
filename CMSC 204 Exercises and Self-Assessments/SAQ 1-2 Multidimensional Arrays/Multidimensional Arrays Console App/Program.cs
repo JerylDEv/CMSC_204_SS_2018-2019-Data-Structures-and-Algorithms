@@ -10,7 +10,7 @@ namespace Multidimensional_Arrays_Console_App
       MultidimensionalArraysClassLibrary multidimensionalArray = new MultidimensionalArraysClassLibrary();
       multidimensionalArray.Hello();
 
-      int number = 69;
+      int number = 538;
       string binaryString = "";
 
       while (number != 0)
@@ -25,7 +25,10 @@ namespace Multidimensional_Arrays_Console_App
         }
         number = number / 2;
       }
-      binaryString.
+      char[] binaryCharArray = binaryString.ToCharArray();
+      Array.Reverse(binaryCharArray);
+      string binaryCharString = new string(binaryCharArray);
+      Console.WriteLine(binaryCharString);
 
       Console.ReadLine();
     }
