@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\Multidimensional Arrays Class Library.csproj",
+      "projectUniqueName": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\Multidimensional Arrays Class Library.csproj",
       "projectName": "Multidimensional Arrays Class Library",
-      "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\Multidimensional Arrays Class Library.csproj",
+      "projectPath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\Multidimensional Arrays Class Library.csproj",
       "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\obj\\",
+      "outputPath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

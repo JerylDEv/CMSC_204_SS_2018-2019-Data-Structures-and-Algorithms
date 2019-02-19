@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Console App\\Multidimensional Arrays Console App.csproj",
+  "ProjectFilePath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Console App\\Multidimensional Arrays Console App.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }

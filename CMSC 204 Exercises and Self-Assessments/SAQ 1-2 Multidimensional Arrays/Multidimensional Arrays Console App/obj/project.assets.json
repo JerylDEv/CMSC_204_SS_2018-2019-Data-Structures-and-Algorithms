@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Console App\\Multidimensional Arrays Console App.csproj",
+      "projectUniqueName": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Console App\\Multidimensional Arrays Console App.csproj",
       "projectName": "Multidimensional Arrays Console App",
-      "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Console App\\Multidimensional Arrays Console App.csproj",
+      "projectPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Console App\\Multidimensional Arrays Console App.csproj",
       "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Console App\\obj\\",
+      "outputPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Console App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -731,8 +731,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\Multidimensional Arrays Class Library.csproj": {
-              "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\Multidimensional Arrays Class Library.csproj"
+            "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\Multidimensional Arrays Class Library.csproj": {
+              "projectPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\SAQ 1-2 Multidimensional Arrays\\Multidimensional Arrays Class Library\\Multidimensional Arrays Class Library.csproj"
             }
           }
         }

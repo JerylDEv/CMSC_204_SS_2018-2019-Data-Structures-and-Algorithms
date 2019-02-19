@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Console Application\\Representation of Information Console Application.csproj",
+      "projectUniqueName": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Console Application\\Representation of Information Console Application.csproj",
       "projectName": "Representation of Information Console Application",
-      "projectPath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Console Application\\Representation of Information Console Application.csproj",
+      "projectPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Console Application\\Representation of Information Console Application.csproj",
       "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
-      "outputPath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Console Application\\obj\\",
+      "outputPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Console Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -731,8 +731,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\Representation of Information Class Library.csproj": {
-              "projectPath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\Representation of Information Class Library.csproj"
+            "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\Representation of Information Class Library.csproj": {
+              "projectPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\Representation of Information Class Library.csproj"
             }
           }
         }

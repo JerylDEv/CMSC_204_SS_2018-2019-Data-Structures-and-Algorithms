@@ -2,7 +2,7 @@
 
 namespace Representation_of_Information_Class_Library
 {
-    public class Class1
-    {
-    }
+  public class RepresentationOfInformationClassLibrary
+  {
+  }
 }
