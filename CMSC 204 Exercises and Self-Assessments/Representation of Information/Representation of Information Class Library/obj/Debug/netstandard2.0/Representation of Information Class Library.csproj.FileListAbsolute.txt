@@ -1,0 +1,9 @@
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Representation of Information\Representation of Information Class Library\bin\Debug\netstandard2.0\Representation of Information Class Library.deps.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Representation of Information\Representation of Information Class Library\bin\Debug\netstandard2.0\Representation of Information Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Representation of Information\Representation of Information Class Library\bin\Debug\netstandard2.0\Representation of Information Class Library.pdb
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Representation of Information\Representation of Information Class Library\obj\Debug\netstandard2.0\Representation of Information Class Library.csprojAssemblyReference.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Representation of Information\Representation of Information Class Library\obj\Debug\netstandard2.0\Representation of Information Class Library.csproj.CoreCompileInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Representation of Information\Representation of Information Class Library\obj\Debug\netstandard2.0\Representation of Information Class Library.AssemblyInfoInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Representation of Information\Representation of Information Class Library\obj\Debug\netstandard2.0\Representation of Information Class Library.AssemblyInfo.cs
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Representation of Information\Representation of Information Class Library\obj\Debug\netstandard2.0\Representation of Information Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Representation of Information\Representation of Information Class Library\obj\Debug\netstandard2.0\Representation of Information Class Library.pdb
