@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Representation_of_Information_Class_Library
 {
@@ -31,7 +32,14 @@ namespace Representation_of_Information_Class_Library
 
     public void BinaryToHexadecimal(int binaryInput)
     {
-
+      char[] binaryCharArray = binaryInput.ToString().ToCharArray();
+      int index = binaryCharArray.Length;
+      var query = from character in binaryCharArray
+                  let num = index--
+                  group character by num / 4 into g
+                  select g.ToArray();
+      var results = query.ToArray();
+      Console.WriteLine(results);
     }
   }
 }

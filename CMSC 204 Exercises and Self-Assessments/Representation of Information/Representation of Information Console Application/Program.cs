@@ -17,6 +17,9 @@ namespace Representation_of_Information_Console_Application
       Console.WriteLine(" ");
       Console.WriteLine($"Binary: \t{binaryOutput}");
 
+      // Binary to Hexadecimal
+      representation.BinaryToHexadecimal(numberInput);
+
       Console.ReadLine();
     }
   }
