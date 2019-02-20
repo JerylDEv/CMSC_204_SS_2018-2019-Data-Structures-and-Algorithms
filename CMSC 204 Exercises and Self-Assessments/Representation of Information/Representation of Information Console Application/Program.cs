@@ -7,12 +7,15 @@ namespace Representation_of_Information_Console_Application
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!");
+      Console.Title = "Representation of Information Console App";
       RepresentationOfInformationClassLibrary representation = new RepresentationOfInformationClassLibrary();
       Console.Write("Enter a Number: \t");
-      int numberInput = Convert.ToInt32(Console.ReadLine());
-      representation.DecimalToBinary(numberInput);
 
+      // Decimal to Binary
+      int numberInput = Convert.ToInt32(Console.ReadLine());
+      string binaryOutput = Convert.ToString(representation.DecimalToBinary(numberInput));
+      Console.WriteLine(" ");
+      Console.WriteLine($"Binary: \t{binaryOutput}");
 
       Console.ReadLine();
     }

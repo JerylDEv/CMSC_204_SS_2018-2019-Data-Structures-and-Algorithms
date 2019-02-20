@@ -4,13 +4,13 @@ namespace Representation_of_Information_Class_Library
 {
   public class RepresentationOfInformationClassLibrary
   {
-    public void DecimalToBinary(int number)
+    public int DecimalToBinary(int decimalInput)
     {
       string binaryString = "";
 
-      while (number != 0)
+      while (decimalInput != 0)
       {
-        if (number % 2 == 0)
+        if (decimalInput % 2 == 0)
         {
           binaryString = binaryString + "0";
         }
@@ -18,12 +18,20 @@ namespace Representation_of_Information_Class_Library
         {
           binaryString = binaryString + "1";
         }
-        number = number / 2;
+        decimalInput = decimalInput / 2;
       }
       char[] binaryCharArray = binaryString.ToCharArray();
       Array.Reverse(binaryCharArray);
       string binaryCharString = new string(binaryCharArray);
-      Console.WriteLine(binaryCharString);
+      // Console.WriteLine(binaryCharString);
+      return Convert.ToInt32(binaryCharString);
+    }
+
+
+
+    public void BinaryToHexadecimal(int binaryInput)
+    {
+
     }
   }
 }
