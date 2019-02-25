@@ -26,32 +26,6 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       }
-    },
-    ".NETStandard,Version=v2.0/win10-x64": {
-      "Microsoft.NETCore.Platforms/1.1.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard1.0/_._": {}
-        }
-      },
-      "NETStandard.Library/2.0.3": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "1.1.0"
-        },
-        "compile": {
-          "lib/netstandard1.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard1.0/_._": {}
-        },
-        "build": {
-          "build/netstandard2.0/NETStandard.Library.targets": {}
-        }
-      }
     }
   },
   "libraries": {
@@ -210,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Notes\\Arrays\\Searching for an Element in an Array\\Element Search Library\\Element Search Library.csproj",
+      "projectUniqueName": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Notes\\Arrays\\Searching for an Element in an Array\\Element Search Library\\Element Search Library.csproj",
       "projectName": "Element Search Library",
-      "projectPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Notes\\Arrays\\Searching for an Element in an Array\\Element Search Library\\Element Search Library.csproj",
+      "projectPath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Notes\\Arrays\\Searching for an Element in an Array\\Element Search Library\\Element Search Library.csproj",
       "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\accessadmin\\Documents\\2 - UPOU\\CMSC 204\\CMSC 204 Notes\\Arrays\\Searching for an Element in an Array\\Element Search Library\\obj\\",
+      "outputPath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Notes\\Arrays\\Searching for an Element in an Array\\Element Search Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -256,11 +230,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true
-      }
-    },
-    "runtimes": {
-      "win10-x64": {
-        "#import": []
       }
     }
   }

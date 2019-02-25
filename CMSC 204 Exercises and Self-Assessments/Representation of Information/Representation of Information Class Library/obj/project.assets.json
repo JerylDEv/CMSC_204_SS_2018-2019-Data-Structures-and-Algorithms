@@ -26,6 +26,32 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       }
+    },
+    ".NETStandard,Version=v2.0/win10-x64": {
+      "Microsoft.NETCore.Platforms/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        },
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "build": {
+          "build/netstandard2.0/NETStandard.Library.targets": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -184,11 +210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\Representation of Information Class Library.csproj",
+      "projectUniqueName": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\Representation of Information Class Library.csproj",
       "projectName": "Representation of Information Class Library",
-      "projectPath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\Representation of Information Class Library.csproj",
+      "projectPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\Representation of Information Class Library.csproj",
       "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
-      "outputPath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\obj\\",
+      "outputPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\Representation of Information\\Representation of Information Class Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -230,6 +256,11 @@
         ],
         "assetTargetFallback": true,
         "warn": true
+      }
+    },
+    "runtimes": {
+      "win10-x64": {
+        "#import": []
       }
     }
   }

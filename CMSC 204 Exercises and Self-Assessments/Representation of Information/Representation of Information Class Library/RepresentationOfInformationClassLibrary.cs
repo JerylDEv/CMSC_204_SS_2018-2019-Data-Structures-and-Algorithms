@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Linq;
+using System.Text;
 
 namespace Representation_of_Information_Class_Library
 {
   public class RepresentationOfInformationClassLibrary
   {
-    public int DecimalToBinary(int decimalInput)
+    public string DecimalToBinary(string inputString)
     {
+      int decimalInput = Convert.ToInt32(inputString);
       string binaryString = "";
 
       while (decimalInput != 0)
@@ -24,22 +26,35 @@ namespace Representation_of_Information_Class_Library
       char[] binaryCharArray = binaryString.ToCharArray();
       Array.Reverse(binaryCharArray);
       string binaryCharString = new string(binaryCharArray);
-      // Console.WriteLine(binaryCharString);
-      return Convert.ToInt32(binaryCharString);
+      return binaryCharString;
     }
 
-
-
-    public void BinaryToHexadecimal(int binaryInput)
+    public string BinaryToHexadecimal(string binaryInput)
     {
-      char[] binaryCharArray = binaryInput.ToString().ToCharArray();
-      int index = binaryCharArray.Length;
-      var query = from character in binaryCharArray
-                  let num = index--
-                  group character by num / 4 into g
-                  select g.ToArray();
-      var results = query.ToArray();
-      Console.WriteLine(results);
+      string hexadecimalString = Convert.ToInt32(binaryInput, 2).ToString("X");
+      return hexadecimalString;
+    }
+
+    public string BinaryToDecimal(string binaryInput)
+    {
+      // int rem, num, decimal_val = 0, base_val = 0;
+      // int binaryNumber = Convert.ToInt32(binaryInput);
+      // while (binaryNumber > 0)
+      // {
+      //   rem = binaryNumber % 10;
+      //   decimal_val = decimal_val + rem * base_val;
+      //   num = binaryNumber / 10;
+      //   base_val = base_val * 2;
+      // }
+
+      int dec = Convert.ToInt32(binaryInput, 2);
+      return dec.ToString();
+    }
+
+    public string HexadecimalToDecimal(string hexadecimalInput)
+    {
+      Decimal dec = long.Parse(hexadecimalInput, System.Globalization.NumberStyles.HexNumber);
+      return dec.ToString();
     }
   }
 }
