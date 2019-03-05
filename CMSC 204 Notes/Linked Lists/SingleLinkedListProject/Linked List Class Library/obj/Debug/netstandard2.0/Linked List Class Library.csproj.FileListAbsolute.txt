@@ -1,0 +1,9 @@
+D:\2 - UPOU\CMSC 204\CMSC 204 Notes\Linked Lists\SingleLinkedListProject\Linked List Class Library\bin\Debug\netstandard2.0\Linked List Class Library.deps.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Notes\Linked Lists\SingleLinkedListProject\Linked List Class Library\bin\Debug\netstandard2.0\Linked List Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Notes\Linked Lists\SingleLinkedListProject\Linked List Class Library\bin\Debug\netstandard2.0\Linked List Class Library.pdb
+D:\2 - UPOU\CMSC 204\CMSC 204 Notes\Linked Lists\SingleLinkedListProject\Linked List Class Library\obj\Debug\netstandard2.0\Linked List Class Library.csprojAssemblyReference.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Notes\Linked Lists\SingleLinkedListProject\Linked List Class Library\obj\Debug\netstandard2.0\Linked List Class Library.csproj.CoreCompileInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Notes\Linked Lists\SingleLinkedListProject\Linked List Class Library\obj\Debug\netstandard2.0\Linked List Class Library.AssemblyInfoInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Notes\Linked Lists\SingleLinkedListProject\Linked List Class Library\obj\Debug\netstandard2.0\Linked List Class Library.AssemblyInfo.cs
+D:\2 - UPOU\CMSC 204\CMSC 204 Notes\Linked Lists\SingleLinkedListProject\Linked List Class Library\obj\Debug\netstandard2.0\Linked List Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Notes\Linked Lists\SingleLinkedListProject\Linked List Class Library\obj\Debug\netstandard2.0\Linked List Class Library.pdb

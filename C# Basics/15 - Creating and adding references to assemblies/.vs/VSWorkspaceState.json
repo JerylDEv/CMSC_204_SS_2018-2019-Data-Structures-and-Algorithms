@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleAppNETFramework",
+    "\\MyClassLibrary",
+    "\\Scrape App Solution"
   ],
+  "SelectedNode": "\\Scrape App Solution",
   "PreviewInSolutionExplorer": false
 }
