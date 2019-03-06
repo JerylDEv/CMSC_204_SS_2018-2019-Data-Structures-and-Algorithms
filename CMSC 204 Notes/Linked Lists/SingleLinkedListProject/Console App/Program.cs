@@ -7,8 +7,20 @@ namespace Console_App
   {
     static void Main(string[] args)
     {
-      SingleLinkedListClass LinkedList = new SingleLinkedListClass();
-      LinkedList.Hello();
+      // SingleLinkedListClass LinkedList = new SingleLinkedListClass();
+      // LinkedList.Hello();
+
+      // Node myNode = new Node(15);
+      // myNode.AddToEnd(32);
+      // myNode.AddToEnd(45);
+      // myNode.Print();
+
+      MyLinkedList myList = new MyLinkedList();
+      myList.AddToEnd(15);
+      myList.AddToBeginning(27);
+      myList.AddToEnd(42);
+      myList.AddSorted(35);
+      myList.Print();
 
       Console.ReadLine();
     }
