@@ -61,5 +61,30 @@ namespace Linked_List_Class_Library
         headNode.AddSorted(data);
       }
     }
+
+    public void RemoveNode(int data)
+    {
+      var node = headNode;
+      Node currentNode = headNode;
+      Node previousNode = null;
+      while (node != null)
+      {
+        currentNode = node;
+        if (node.data == data)
+        {
+          if (previousNode != null)
+          {
+            previousNode.next = currentNode.next;
+          }
+          else
+          {
+            headNode = headNode.next;
+          }
+          break;
+        }
+        previousNode = currentNode;
+        node = node.next;
+      }
+    }
   }
 }

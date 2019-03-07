@@ -21,6 +21,9 @@ namespace Console_App
       myList.AddToEnd(42);
       myList.AddSorted(35);
       myList.Print();
+      Console.WriteLine(" ");
+      myList.RemoveNode(42);
+      myList.Print();
 
       Console.ReadLine();
     }
