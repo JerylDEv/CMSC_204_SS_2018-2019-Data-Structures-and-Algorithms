@@ -9,16 +9,9 @@ namespace Console_App
   {
     static void Main(string[] args)
     {
-      ViewModel myViewModel = new ViewModel();
       Console.Title = "Notebook Checker App";
-      MyCustomStack hello = new MyCustomStack();
-      // hello.PrintAll();
-      // hello.Push("apple");
-      // hello.Push("banana");
-      // hello.PrintAll();
-      // hello.Peek();
-      // hello.Pop();
-      // hello.PrintAll();
+
+      ViewModel myViewModel = new ViewModel();
 
       bool displayMenu = true;
       while (displayMenu == true)
@@ -48,10 +41,11 @@ namespace Console_App
           myViewModel.PeekAtNotebook();
           displayMenu = true;
         }
-        // else if (operationSelected == "4")
-        // {
-        //   return true;
-        // }
+        else if (operationSelected == "4")
+        {
+          myViewModel.CheckAllNotebooks()
+          displayMenu = true;
+        }
         else if (operationSelected == "5")
         {
 

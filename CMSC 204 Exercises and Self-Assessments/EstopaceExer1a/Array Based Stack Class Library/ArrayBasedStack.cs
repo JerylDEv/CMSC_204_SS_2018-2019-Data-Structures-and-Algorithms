@@ -2,7 +2,7 @@
 
 namespace Array_Based_Stack_Class_Library
 {
-  // This Class handles the logic of the application. Each method either performs an operation but do not display results. It is the View Model.cs which handles the View or the Display of each Menu available in the Program.cs of the Application
+  // This Class handles the logic of the application. Each method either performs an operation. The View Model.cs handles the View or the Display of each Menu available in the Application
   public class MyCustomStack
   {
     // I made this a static int to avoid the error in line 12 which says "A field initializer cannot reference the non-static field, method, or property 'CustomStack.maxStackCount' [Array Based Stack Class Library]". I also passed a value of 1000 so I could have a default number of item containers in the array. 
@@ -31,7 +31,7 @@ namespace Array_Based_Stack_Class_Library
     {
       if (topOfTheStack == -1)
       {
-        Console.WriteLine("The stack is empty.");
+        Console.WriteLine("The stack is empty."); // in case of Stack underflow
       }
       else
       {
@@ -48,7 +48,7 @@ namespace Array_Based_Stack_Class_Library
     {
       if (topOfTheStack == -1)
       {
-        Console.WriteLine("The stack is empty."); // Stack underflow
+        Console.WriteLine("The stack is empty."); // in case of Stack underflow
       }
       else
       {
@@ -62,7 +62,7 @@ namespace Array_Based_Stack_Class_Library
     {
       if (topOfTheStack == -1)
       {
-        Console.WriteLine("The stack is empty."); // Stack underflow
+        Console.WriteLine("The stack is empty."); // in case of Stack underflow
       }
       else
       {
@@ -74,7 +74,7 @@ namespace Array_Based_Stack_Class_Library
     {
       if (topOfTheStack == -1)
       {
-        Console.WriteLine("The stack is empty."); // Stack underflow
+        Console.WriteLine("The stack is empty."); // in case of Stack underflow
       }
       else
       {
@@ -86,8 +86,15 @@ namespace Array_Based_Stack_Class_Library
 
     public void ClearStack()
     {
-      topOfTheStack = -1;
-      Console.WriteLine("You have emptied the stack.");
+      if (topOfTheStack == -1)
+      {
+        Console.WriteLine("The stack is empty."); // in case of Stack underflow
+      }
+      else
+      {
+        topOfTheStack = -1;
+        Console.WriteLine("Congratulations! You have checked all the notebooks in the stack. The stack is now empty.");
+      }
     }
   }
 }

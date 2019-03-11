@@ -28,5 +28,11 @@ namespace Console_App.View
       notebookOwners.Peek();
       Console.ReadLine();
     }
+
+    public void CheckAllNotebooks()
+    {
+      notebookOwners.ClearStack();
+      Console.ReadLine();
+    }
   }
 }
