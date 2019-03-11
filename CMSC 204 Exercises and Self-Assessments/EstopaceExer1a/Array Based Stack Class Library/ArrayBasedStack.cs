@@ -5,7 +5,7 @@ namespace Array_Based_Stack_Class_Library
   // This Class handles the logic of the application. Each method either performs an operation. The View Model.cs handles the View or the Display of each Menu available in the Application
   public class MyCustomStack
   {
-    // I made this a static int to avoid the error in line 12 which says "A field initializer cannot reference the non-static field, method, or property 'CustomStack.maxStackCount' [Array Based Stack Class Library]". I also passed a value of 1000 so I could have a default number of item containers in the array. 
+    // I made this a static int to avoid the error in line 13 which says "A field initializer cannot reference the non-static field, method, or property 'CustomStack.maxStackCount' [Array Based Stack Class Library]". I also passed a value of 1000 so I could have a default number of item containers in the array. 
     static int maxStackCount = 1000;
     // I have initially set the value of the top of the stack to -1 so that the minimum index will be zero in the first execution of the Push method.
     int topOfTheStack = -1;
@@ -70,6 +70,7 @@ namespace Array_Based_Stack_Class_Library
       }
     }
 
+    // Call the PeekAndPop method in order to peek on the notebook on top of the list and then pop it afterwards. I also called the PrintAll method so user will be aware of what is remaining in the stack.
     public void PeekAndPop()
     {
       if (topOfTheStack == -1)
