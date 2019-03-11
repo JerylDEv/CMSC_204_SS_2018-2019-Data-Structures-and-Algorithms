@@ -17,7 +17,7 @@ namespace Array_Based_Stack_Class_Library
     {
       if (topOfTheStack >= maxStackCount)
       {
-        Console.WriteLine("The stack exceeded the maximum item count.");
+        Console.WriteLine("The stack exceeded the maximum item count."); // in case of stack overflow.
       }
       else
       {
@@ -85,6 +85,7 @@ namespace Array_Based_Stack_Class_Library
       }
     }
 
+    // Call the ClearStack method to empty the stack.
     public void ClearStack()
     {
       if (topOfTheStack == -1)
