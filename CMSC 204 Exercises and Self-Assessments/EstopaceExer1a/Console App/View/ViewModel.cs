@@ -11,9 +11,15 @@ namespace Console_App.View
 
     public void AddNotebook()
     {
-      Console.Write("Enter a name: \t");
-      string owner = Console.ReadLine();
+      string owner = null;
+      while (string.IsNullOrWhiteSpace(owner))
+      {
+        Console.Write("Enter a name: \t");
+        owner = Console.ReadLine();
+      }
+      // string owner = Console.ReadLine();
       notebookOwners.Push(owner);
+
       Console.ReadLine();
     }
 

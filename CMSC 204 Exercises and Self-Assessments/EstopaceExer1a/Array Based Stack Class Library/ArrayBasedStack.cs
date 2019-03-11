@@ -94,6 +94,7 @@ namespace Array_Based_Stack_Class_Library
       }
       else
       {
+        this.PrintAll();
         topOfTheStack = -1;
         Console.WriteLine("Congratulations! You have checked all the notebooks in the stack. The stack is now empty.");
       }
