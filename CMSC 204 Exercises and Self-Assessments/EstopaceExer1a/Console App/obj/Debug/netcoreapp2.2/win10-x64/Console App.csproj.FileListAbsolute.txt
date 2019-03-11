@@ -1,0 +1,17 @@
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\Console App.exe
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\Console App.deps.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\Console App.runtimeconfig.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\Console App.runtimeconfig.dev.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\Console App.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\Console App.pdb
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\Array Based Stack Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\bin\Debug\netcoreapp2.2\win10-x64\Array Based Stack Class Library.pdb
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\obj\Debug\netcoreapp2.2\win10-x64\Console App.csprojAssemblyReference.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\obj\Debug\netcoreapp2.2\win10-x64\Console App.csproj.CoreCompileInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\obj\Debug\netcoreapp2.2\win10-x64\Console App.AssemblyInfoInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\obj\Debug\netcoreapp2.2\win10-x64\Console App.AssemblyInfo.cs
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\obj\Debug\netcoreapp2.2\win10-x64\Console App.csproj.CopyComplete
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\obj\Debug\netcoreapp2.2\win10-x64\Console App.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Console App\obj\Debug\netcoreapp2.2\win10-x64\Console App.pdb

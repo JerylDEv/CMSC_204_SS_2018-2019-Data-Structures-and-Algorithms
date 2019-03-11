@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Array_Based_Stack_Class_Library</RootNamespace>
+  </PropertyGroup>
+
+</Project>

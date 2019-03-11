@@ -4,3 +4,9 @@ C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Ass
 C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Debug\Arrays Class Library.csproj.CoreCompileInputs.cache
 C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Debug\Arrays Class Library.dll
 C:\Users\accessadmin\Documents\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Debug\Arrays Class Library.pdb
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\bin\Debug\Arrays Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\bin\Debug\Arrays Class Library.pdb
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Debug\Arrays Class Library.csprojAssemblyReference.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Debug\Arrays Class Library.csproj.CoreCompileInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Debug\Arrays Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\Self-Assessment 1 - Arrays\Arrays Class Library\obj\Debug\Arrays Class Library.pdb

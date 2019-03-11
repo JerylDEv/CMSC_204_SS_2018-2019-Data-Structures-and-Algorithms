@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Array Based Stack Class Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Array Based Stack Class Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Array Based Stack Class Library.dll": {}
+        }
       }
     }
   },
@@ -678,10 +688,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Array Based Stack Class Library/1.0.0": {
+      "type": "project",
+      "path": "../Array Based Stack Class Library/Array Based Stack Class Library.csproj",
+      "msbuildProject": "../Array Based Stack Class Library/Array Based Stack Class Library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "Array Based Stack Class Library >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -714,7 +730,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Array Based Stack Class Library\\Array Based Stack Class Library.csproj": {
+              "projectPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Array Based Stack Class Library\\Array Based Stack Class Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

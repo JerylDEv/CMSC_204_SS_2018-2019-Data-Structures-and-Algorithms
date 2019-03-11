@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Arrays_Console_App
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {

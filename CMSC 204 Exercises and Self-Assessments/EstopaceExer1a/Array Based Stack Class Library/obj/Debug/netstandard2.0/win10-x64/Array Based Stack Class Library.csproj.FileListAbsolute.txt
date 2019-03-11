@@ -1,0 +1,9 @@
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Array Based Stack Class Library\bin\Debug\netstandard2.0\win10-x64\Array Based Stack Class Library.deps.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Array Based Stack Class Library\bin\Debug\netstandard2.0\win10-x64\Array Based Stack Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Array Based Stack Class Library\bin\Debug\netstandard2.0\win10-x64\Array Based Stack Class Library.pdb
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Array Based Stack Class Library\obj\Debug\netstandard2.0\win10-x64\Array Based Stack Class Library.csprojAssemblyReference.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Array Based Stack Class Library\obj\Debug\netstandard2.0\win10-x64\Array Based Stack Class Library.csproj.CoreCompileInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Array Based Stack Class Library\obj\Debug\netstandard2.0\win10-x64\Array Based Stack Class Library.AssemblyInfoInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Array Based Stack Class Library\obj\Debug\netstandard2.0\win10-x64\Array Based Stack Class Library.AssemblyInfo.cs
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Array Based Stack Class Library\obj\Debug\netstandard2.0\win10-x64\Array Based Stack Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1a\Array Based Stack Class Library\obj\Debug\netstandard2.0\win10-x64\Array Based Stack Class Library.pdb
