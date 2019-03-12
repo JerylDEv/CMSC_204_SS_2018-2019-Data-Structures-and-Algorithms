@@ -81,7 +81,9 @@ namespace Array_Based_Stack_Class_Library
       else
       {
         Console.WriteLine($"{stackArray[topOfTheStack]}'s notebook is being checked.");
+        Console.WriteLine(" ");
         this.Pop();
+        Console.WriteLine(" ");
         this.PrintAll();
       }
     }
@@ -97,6 +99,7 @@ namespace Array_Based_Stack_Class_Library
       {
         this.PrintAll();
         topOfTheStack = -1;
+        Console.WriteLine(" ");
         Console.WriteLine("Congratulations! You have checked all the notebooks in the stack. The stack is now empty.");
       }
     }

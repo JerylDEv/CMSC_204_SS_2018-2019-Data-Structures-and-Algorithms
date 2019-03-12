@@ -8,6 +8,8 @@ namespace Console_App
     static void Main(string[] args)
     {
       Console.Title = "Notebook Checker App";
+      Console.WriteLine("Notebook Checker App");
+      Console.WriteLine(" ");
 
       ViewModel myViewModel = new ViewModel();
 
@@ -15,11 +17,11 @@ namespace Console_App
       while (displayMenu == true)
       {
         Console.WriteLine("Select an operation to perform:");
-        Console.WriteLine("1) Add Notebook");
-        Console.WriteLine("2) Check Notebook");
-        Console.WriteLine("3) Peek at Notebook");
-        Console.WriteLine("4) Check All");
-        Console.WriteLine("5) Exit");
+        Console.WriteLine("[1] Add Notebook");
+        Console.WriteLine("[2] Check Notebook");
+        Console.WriteLine("[3] Peek at Notebook");
+        Console.WriteLine("[4] Check All");
+        Console.WriteLine("[5] Exit");
         Console.WriteLine(" ");
         Console.Write("Operation selected:\t");
         string operationSelected = Console.ReadLine();
@@ -27,19 +29,19 @@ namespace Console_App
         switch (operationSelected)
         {
           case "1":
-            myViewModel.AddNotebook();
+            myViewModel.AddNotebookPage();
             displayMenu = true;
             break;
           case "2":
-            myViewModel.CheckNotebook();
+            myViewModel.CheckNotebookPage();
             displayMenu = true;
             break;
           case "3":
-            myViewModel.PeekAtNotebook();
+            myViewModel.PeekAtNotebookPage();
             displayMenu = true;
             break;
           case "4":
-            myViewModel.CheckAllNotebooks();
+            myViewModel.CheckAllNotebooksPage();
             displayMenu = true;
             break;
           case "5":

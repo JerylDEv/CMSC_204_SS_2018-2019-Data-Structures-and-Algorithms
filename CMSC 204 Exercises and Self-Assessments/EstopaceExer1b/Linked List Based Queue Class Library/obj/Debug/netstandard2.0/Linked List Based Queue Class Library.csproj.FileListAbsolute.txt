@@ -1,0 +1,9 @@
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1b\Linked List Based Queue Class Library\bin\Debug\netstandard2.0\Linked List Based Queue Class Library.deps.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1b\Linked List Based Queue Class Library\bin\Debug\netstandard2.0\Linked List Based Queue Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1b\Linked List Based Queue Class Library\bin\Debug\netstandard2.0\Linked List Based Queue Class Library.pdb
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1b\Linked List Based Queue Class Library\obj\Debug\netstandard2.0\Linked List Based Queue Class Library.csprojAssemblyReference.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1b\Linked List Based Queue Class Library\obj\Debug\netstandard2.0\Linked List Based Queue Class Library.csproj.CoreCompileInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1b\Linked List Based Queue Class Library\obj\Debug\netstandard2.0\Linked List Based Queue Class Library.AssemblyInfoInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1b\Linked List Based Queue Class Library\obj\Debug\netstandard2.0\Linked List Based Queue Class Library.AssemblyInfo.cs
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1b\Linked List Based Queue Class Library\obj\Debug\netstandard2.0\Linked List Based Queue Class Library.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer1b\Linked List Based Queue Class Library\obj\Debug\netstandard2.0\Linked List Based Queue Class Library.pdb
