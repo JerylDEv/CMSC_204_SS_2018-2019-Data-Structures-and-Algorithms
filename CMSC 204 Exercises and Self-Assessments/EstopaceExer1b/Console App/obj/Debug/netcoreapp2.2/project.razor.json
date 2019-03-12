@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1b\\Console App\\Console App.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

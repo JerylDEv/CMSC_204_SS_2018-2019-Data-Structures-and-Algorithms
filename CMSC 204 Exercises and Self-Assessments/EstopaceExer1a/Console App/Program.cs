@@ -24,34 +24,30 @@ namespace Console_App
         Console.Write("Operation selected:\t");
         string operationSelected = Console.ReadLine();
 
-        if (operationSelected == "1")
+        switch (operationSelected)
         {
-          myViewModel.AddNotebook();
-          displayMenu = true;
-        }
-        else if (operationSelected == "2")
-        {
-          myViewModel.CheckNotebook();
-          displayMenu = true;
-        }
-        else if (operationSelected == "3")
-        {
-          myViewModel.PeekAtNotebook();
-          displayMenu = true;
-        }
-        else if (operationSelected == "4")
-        {
-          myViewModel.CheckAllNotebooks();
-          displayMenu = true;
-        }
-        else if (operationSelected == "5")
-        {
-
-          displayMenu = false;
-        }
-        else
-        {
-          displayMenu = true;
+          case "1":
+            myViewModel.AddNotebook();
+            displayMenu = true;
+            break;
+          case "2":
+            myViewModel.CheckNotebook();
+            displayMenu = true;
+            break;
+          case "3":
+            myViewModel.PeekAtNotebook();
+            displayMenu = true;
+            break;
+          case "4":
+            myViewModel.CheckAllNotebooks();
+            displayMenu = true;
+            break;
+          case "5":
+            displayMenu = false;
+            break;
+          default:
+            displayMenu = true;
+            break;
         }
       }
     }

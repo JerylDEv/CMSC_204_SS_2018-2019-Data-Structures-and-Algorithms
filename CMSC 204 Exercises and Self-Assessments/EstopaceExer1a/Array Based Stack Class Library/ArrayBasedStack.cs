@@ -2,11 +2,12 @@
 
 namespace Array_Based_Stack_Class_Library
 {
-  // This Class handles the logic of the application. Each method either performs an operation. The View Model.cs handles the View or the Display of each Menu available in the Application
+  // This Class handles the logic of the application. Each method performs an operation. The View Model.cs handles the View or the Display of each Menu available in the Application.
   public class MyCustomStack
   {
-    // I made this a static int to avoid the error in line 13 which says "A field initializer cannot reference the non-static field, method, or property 'CustomStack.maxStackCount' [Array Based Stack Class Library]". I also passed a value of 1000 so I could have a default number of item containers in the array. 
+    // I made this a static int to avoid the error in line 14 which says "A field initializer cannot reference the non-static field, method, or property 'CustomStack.maxStackCount' [Array Based Stack Class Library]". I also passed a value of 1000 so I could have a default number of item containers in the array. 
     static int maxStackCount = 1000;
+    // The main idea here is to utilize a counter that is independent of the array's index. Using such counter makes it easier for me to track the order of the items.
     // I have initially set the value of the top of the stack to -1 so that the minimum index will be zero in the first execution of the Push method.
     int topOfTheStack = -1;
     // Initializing the array.
