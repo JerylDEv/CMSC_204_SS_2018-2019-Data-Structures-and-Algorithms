@@ -35,7 +35,7 @@ namespace Linked_List_Based_Queue_Class_Library
     {
       if (Header == null)
       {
-        Console.WriteLine("The queue is empty.");
+        Console.WriteLine("Congratulations! The queue is now empty.");
       }
       else
       {
@@ -62,16 +62,16 @@ namespace Linked_List_Based_Queue_Class_Library
     public void RemoveNode(Node existingNode)
     {
       var node = Header;
-      Node currentNodeNode = Header;
+      Node currentNode = Header;
       Node previousNode = null;
       while (node != null)
       {
-        currentNodeNode = node;
+        currentNode = node;
         if (node == existingNode)
         {
           if (previousNode != null) // If there is an existing node previously . . .
           {
-            previousNode.Next = currentNodeNode.Next; // make the next node of the currentNode as currentNode.
+            previousNode.Next = currentNode.Next; // make the next node of the currentNode as currentNode.
           }
           else // Or else, if there is no existing node previously . . .
           {
@@ -79,7 +79,7 @@ namespace Linked_List_Based_Queue_Class_Library
           }
           break; // break the while loop
         }
-        previousNode = currentNodeNode;
+        previousNode = currentNode;
         node = node.Next;
       }
     }
@@ -134,18 +134,9 @@ namespace Linked_List_Based_Queue_Class_Library
         firstNode.Print(firstNode.Data.Index); // The Print method here comes from the Node class
         Console.WriteLine(" ");
         this.RemoveNode(firstNode);
-        if (firstNode == null)
-        {
-          Console.WriteLine($"Number {firstNode.Data.Index} is now removed from the queue.");
-          Console.WriteLine(" ");
-          Console.WriteLine("Congratulations! The queue is now empty.");
-        }
-        else
-        {
-          Console.WriteLine($"Number {firstNode.Data.Index} is now removed from the queue.");
-          Console.WriteLine(" ");
-          this.Print(); // this keyword here means that I am referring to the Print method within my LinkedList class.
-        }
+        Console.WriteLine($"Patient number {firstNode.Data.Index} is now removed from the queue.");
+        Console.WriteLine(" ");
+        this.Print(); // this keyword here means that I am referring to the Print method within my LinkedList class.
       }
     }
   }

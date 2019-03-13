@@ -16,7 +16,7 @@ namespace Linked_List_Based_Queue_Class_Library
 
     public void Print()
     {
-      Console.WriteLine($"| [{Data.Index}] = Name: {Data.Name}, Concern: {Data.Concern} |");
+      Console.WriteLine($"| [{Data.Index}]\t Name: {Data.Name},\t Concern: {Data.Concern} |");
       if (Next != null)
       {
         Next.Print();
@@ -27,7 +27,7 @@ namespace Linked_List_Based_Queue_Class_Library
     {
       if (Data.Index == index)
       {
-        Console.WriteLine($"| [{Data.Index}] = Name: {Data.Name}, Concern: {Data.Concern} |");
+        Console.WriteLine($"| [{Data.Index}]\t Name: {Data.Name},\t Concern: {Data.Concern} |");
       }
       else
       {
