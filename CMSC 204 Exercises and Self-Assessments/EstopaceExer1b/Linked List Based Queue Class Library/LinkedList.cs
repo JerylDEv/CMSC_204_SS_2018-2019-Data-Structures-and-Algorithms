@@ -39,7 +39,7 @@ namespace Linked_List_Based_Queue_Class_Library
       }
       else
       {
-        Console.WriteLine("Here are the remaining numbers in the queue.");
+        Console.WriteLine("Here are the remaining patients in the queue.");
         Header.Print();
       }
     }
@@ -137,6 +137,7 @@ namespace Linked_List_Based_Queue_Class_Library
         if (firstNode == null)
         {
           Console.WriteLine($"Number {firstNode.Data.Index} is now removed from the queue.");
+          Console.WriteLine(" ");
           Console.WriteLine("Congratulations! The queue is now empty.");
         }
         else

@@ -49,7 +49,6 @@ namespace Console_App.View
       myQueue.InsertToEnd(generateNode(patientIndex, name, concern));
       Console.WriteLine(" ");
       Console.Write("Press Enter key to continue...");
-      Console.WriteLine(" ");
       Console.ReadLine();
     }
 
@@ -61,7 +60,6 @@ namespace Console_App.View
       myQueue.SearchAndPrintFirstNode();
       Console.WriteLine(" ");
       Console.Write("Press Enter key to continue...");
-      Console.WriteLine(" ");
       Console.ReadLine();
     }
 
@@ -73,7 +71,6 @@ namespace Console_App.View
       myQueue.SearchAndRemoveFirstNode();
       Console.WriteLine(" ");
       Console.Write("Press Enter key to continue...");
-      Console.WriteLine(" ");
       Console.ReadLine();
     }
 
@@ -85,7 +82,6 @@ namespace Console_App.View
       myQueue.ClearQueue();
       Console.WriteLine(" ");
       Console.Write("Press Enter key to continue...");
-      Console.WriteLine(" ");
       Console.ReadLine();
     }
   }

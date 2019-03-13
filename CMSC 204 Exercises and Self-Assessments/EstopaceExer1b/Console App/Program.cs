@@ -10,13 +10,13 @@ namespace Console_App
     {
       Console.Title = "Doctor Consultation App";
       Console.WriteLine("Doctor Consultation App");
-      Console.WriteLine(" ");
 
       ViewModel myViewModel = new ViewModel();
 
       bool displayMenu = true;
       while (displayMenu == true)
       {
+        Console.WriteLine(" ");
         Console.WriteLine("Select an operation to perform:");
         Console.WriteLine("[1] Sign up for doctor’s consultation");
         Console.WriteLine("[2] Enter room");
