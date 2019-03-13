@@ -16,11 +16,24 @@ namespace Linked_List_Based_Queue_Class_Library
 
     public void Print()
     {
-      Console.Write($"|Name: {Data.Name}, Concern: {Data.Concern}| -> ");
+      Console.WriteLine($"| [{Data.Index}] = Name: {Data.Name}, Concern: {Data.Concern} |");
       if (Next != null)
       {
         Next.Print();
       }
     }
+
+    public void Print(string index)
+    {
+      if (Data.Index == index)
+      {
+        Console.WriteLine($"| [{Data.Index}] = Name: {Data.Name}, Concern: {Data.Concern} |");
+      }
+      else
+      {
+        Console.WriteLine("Patient appointment schedule not found.");
+      }
+    }
+
   }
 }

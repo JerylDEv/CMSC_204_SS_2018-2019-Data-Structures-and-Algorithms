@@ -9,13 +9,13 @@ namespace Console_App
     {
       Console.Title = "Notebook Checker App";
       Console.WriteLine("Notebook Checker App");
-      Console.WriteLine(" ");
 
       ViewModel myViewModel = new ViewModel();
 
       bool displayMenu = true;
       while (displayMenu == true)
       {
+        Console.WriteLine(" ");
         Console.WriteLine("Select an operation to perform:");
         Console.WriteLine("[1] Add Notebook");
         Console.WriteLine("[2] Check Notebook");

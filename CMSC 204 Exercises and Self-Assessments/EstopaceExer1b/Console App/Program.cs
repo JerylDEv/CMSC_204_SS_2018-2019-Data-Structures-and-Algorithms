@@ -1,4 +1,5 @@
 ﻿using System;
+using Console_App.View;
 using Linked_List_Based_Queue_Class_Library;
 
 namespace Console_App
@@ -7,37 +8,51 @@ namespace Console_App
   {
     static void Main(string[] args)
     {
-      CustomLinkedList myQueue = new CustomLinkedList();
-      // first patient
-      Patient firstPatient = new Patient("apple", "apple");
-      Node firstNode = new Node(firstPatient);
-      // second patient
-      Patient secondPatient = new Patient("banana", "banana");
-      Node secondNode = new Node(secondPatient);
-      // third patient
-      Patient thirdPatient = new Patient("orange", "orange");
-      Node thirdNode = new Node(thirdPatient);
-      // fourth patient
-      Patient fourthPatient = new Patient("lemon", "lemon");
-      Node fourthNode = new Node(fourthPatient);
-      myQueue.InsertToEnd(firstNode);
-      myQueue.InsertToEnd(secondNode);
-      myQueue.InsertToEnd(thirdNode);
-      myQueue.Print();
+      Console.Title = "Doctor Consultation App";
+      Console.WriteLine("Doctor Consultation App");
       Console.WriteLine(" ");
-      Console.WriteLine(" ");
-      myQueue.InsertToBeginning(fourthNode);
-      Console.WriteLine(" ");
-      Console.WriteLine(" ");
-      myQueue.Print();
-      // Console.WriteLine(" ");
-      // Console.WriteLine(" ");
-      // thirdNode.Print();
-      Console.WriteLine(" ");
-      Console.WriteLine(" ");
-      myQueue.RemoveNode(secondNode);
-      myQueue.Print();
-      Console.ReadLine();
+
+      ViewModel myViewModel = new ViewModel();
+
+      bool displayMenu = true;
+      while (displayMenu == true)
+      {
+        Console.WriteLine("Select an operation to perform:");
+        Console.WriteLine("[1] Sign up for doctor’s consultation");
+        Console.WriteLine("[2] Enter room");
+        Console.WriteLine("[3] Begin consultation");
+        Console.WriteLine("[4] Closing time");
+        Console.WriteLine("[5] Exit");
+        Console.WriteLine(" ");
+        Console.Write("Operation selected:\t");
+        string operationSelected = Console.ReadLine();
+
+        switch (operationSelected)
+        {
+          case "1":
+            myViewModel.SignUpPage();
+            displayMenu = true;
+            break;
+          case "2":
+            myViewModel.EnterRoomPage();
+            displayMenu = true;
+            break;
+          case "3":
+            myViewModel.BeginConsultationPage();
+            displayMenu = true;
+            break;
+          case "4":
+            myViewModel.ClosingTimePage();
+            displayMenu = true;
+            break;
+          case "5":
+            displayMenu = false;
+            break;
+          default:
+            displayMenu = true;
+            break;
+        }
+      }
     }
   }
 }

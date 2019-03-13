@@ -24,8 +24,7 @@ namespace Console_App.View
       // string owner = Console.ReadLine();
       notebookOwners.Push(owner);
       Console.WriteLine(" ");
-      Console.WriteLine("Press Enter key to continue...");
-
+      Console.Write("Press Enter key to continue...");
       Console.ReadLine();
     }
 
@@ -36,7 +35,7 @@ namespace Console_App.View
       Console.WriteLine(" ");
       notebookOwners.PeekAndPop();
       Console.WriteLine(" ");
-      Console.WriteLine("Press Enter key to continue...");
+      Console.Write("Press Enter key to continue...");
       Console.ReadLine();
     }
 
@@ -47,7 +46,7 @@ namespace Console_App.View
       Console.WriteLine(" ");
       notebookOwners.Peek();
       Console.WriteLine(" ");
-      Console.WriteLine("Press Enter key to continue...");
+      Console.Write("Press Enter key to continue...");
       Console.ReadLine();
     }
 
@@ -58,7 +57,7 @@ namespace Console_App.View
       Console.WriteLine(" ");
       notebookOwners.ClearStack();
       Console.WriteLine(" ");
-      Console.WriteLine("Press Enter key to continue...");
+      Console.Write("Press Enter key to continue...");
       Console.ReadLine();
     }
   }

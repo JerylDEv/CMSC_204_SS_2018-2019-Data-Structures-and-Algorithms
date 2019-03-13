@@ -53,7 +53,7 @@ namespace Array_Based_Stack_Class_Library
       }
       else
       {
-        Console.WriteLine($"{stackArray[topOfTheStack]}'s notebook is removed from the stack.");
+        Console.WriteLine($"As such, {stackArray[topOfTheStack]}'s notebook has been removed from the stack.");
         topOfTheStack--;
       }
     }
@@ -84,7 +84,14 @@ namespace Array_Based_Stack_Class_Library
         Console.WriteLine(" ");
         this.Pop();
         Console.WriteLine(" ");
-        this.PrintAll();
+        if (topOfTheStack == -1)
+        {
+          Console.WriteLine("Congratulations! The stack is now empty.");
+        }
+        else
+        {
+          this.PrintAll();
+        }
       }
     }
 
@@ -100,7 +107,9 @@ namespace Array_Based_Stack_Class_Library
         this.PrintAll();
         topOfTheStack = -1;
         Console.WriteLine(" ");
-        Console.WriteLine("Congratulations! You have checked all the notebooks in the stack. The stack is now empty.");
+        Console.WriteLine("All notebooks have been checked.");
+        Console.WriteLine(" ");
+        Console.WriteLine("Congratulations! The stack is now empty.");
       }
     }
   }
