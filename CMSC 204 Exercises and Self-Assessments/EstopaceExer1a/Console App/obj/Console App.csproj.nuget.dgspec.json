@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Console App\\Console App.csproj": {}
+  },
+  "projects": {
+    "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Array Based Stack Class Library\\Array Based Stack Class Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Array Based Stack Class Library\\Array Based Stack Class Library.csproj",
+        "projectName": "Array Based Stack Class Library",
+        "projectPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Array Based Stack Class Library\\Array Based Stack Class Library.csproj",
+        "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
+        "outputPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Array Based Stack Class Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\accessadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Console App\\Console App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Console App\\Console App.csproj",
+        "projectName": "Console App",
+        "projectPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Console App\\Console App.csproj",
+        "packagesPath": "C:\\Users\\accessadmin\\.nuget\\packages\\",
+        "outputPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Console App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\accessadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Array Based Stack Class Library\\Array Based Stack Class Library.csproj": {
+                "projectPath": "D:\\2 - UPOU\\CMSC 204\\CMSC 204 Exercises and Self-Assessments\\EstopaceExer1a\\Array Based Stack Class Library\\Array Based Stack Class Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
