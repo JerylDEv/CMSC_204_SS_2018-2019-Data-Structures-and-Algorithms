@@ -1,0 +1,36 @@
+C:\Users\accessadmin\source\repos\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.exe
+C:\Users\accessadmin\source\repos\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.deps.json
+C:\Users\accessadmin\source\repos\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.runtimeconfig.json
+C:\Users\accessadmin\source\repos\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.runtimeconfig.dev.json
+C:\Users\accessadmin\source\repos\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.dll
+C:\Users\accessadmin\source\repos\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.pdb
+C:\Users\accessadmin\source\repos\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\source\repos\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.AssemblyInfoInputs.cache
+C:\Users\accessadmin\source\repos\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.AssemblyInfo.cs
+C:\Users\accessadmin\source\repos\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.dll
+C:\Users\accessadmin\source\repos\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.pdb
+C:\Users\accessadmin\source\repos\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.csprojAssemblyReference.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.exe
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.deps.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.runtimeconfig.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.runtimeconfig.dev.json
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.pdb
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.csprojAssemblyReference.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.csproj.CoreCompileInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.AssemblyInfoInputs.cache
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.AssemblyInfo.cs
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.dll
+D:\2 - UPOU\CMSC 204\CMSC 204 Exercises and Self-Assessments\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.pdb
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.exe
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.deps.json
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.runtimeconfig.json
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.runtimeconfig.dev.json
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.dll
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\bin\Debug\netcoreapp3.0\EstopaceExer2.pdb
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.csprojAssemblyReference.cache
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.csproj.CoreCompileInputs.cache
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.AssemblyInfoInputs.cache
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.AssemblyInfo.cs
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.dll
+C:\Users\accessadmin\Desktop\EstopaceExer2\EstopaceExer2 - Codebase\EstopaceExer2\obj\Debug\netcoreapp3.0\EstopaceExer2.pdb
